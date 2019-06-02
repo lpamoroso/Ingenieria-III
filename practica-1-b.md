@@ -154,12 +154,23 @@
 
         Para mí, está bien escrito porque es algo medible(un tiempo estimado menor al 25%) y es algo que es coherente, tiene sentido.
 
-13. El “Mapa de Procesos” buscamantener  una  estructura  coherente  de  la  información documentada del sistema.
+13. El Mapa de Procesos busca mantener una estructura coherente de la información documentada del sistema.
     1. Indique cuáles son los tipos de procesos que debe contener y qué representan cada uno de ellos.
+
+        Hay tres tipos de procesos:
+        * Procesos estratégicos: aquellos que definen y verifican las políticas, estrategias, objetivos y metas de la organización.
+        * Procesos operativos: aquellos que relacionados con la producción de bienes y servicios que se entregan al cliente.
+        * Procesos de soporte: aquellos que realizan actividades de apoyo necesarias para el buen funcionamiento de los procesos operativos.
+
     2. Indique qué significan los clientes en el Mapa de Procesos y qué representan.
+
+        Con respecto a los cliente, hay dos enfoques:
+        * Las necesidades del cliente: es decir lo que el cliente quiere o necesita.
+        * La satisfacción del cliente: esto es, si el cliente se muestra satisfecho o no con el producto que se obtuvo.
+
     3. Ubique en el siguiente Mapa de Procesos cada una de las regiones y presente un ejemplo:
 
-        ![alt text](practica-1-b-img-1.png "Mapa de procesos")
+        ![practica-1-b-img-1.png](imgs/practica-1-b-img-1-final_version.png "Mapa de procesos")
 
 ## Parte VI: Resumen
 
