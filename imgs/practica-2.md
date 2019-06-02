@@ -14,9 +14,18 @@
     * Mantenimiento de privacidad: es posible que un sistema automatizado pueda integrar y buscar información de alguien por lo que es también posible que, con los datos recolectados de ese alguien, sea obtenida información detallada de tal persona y se la use en su contra.
 
 2. Para cada uno de los siguientes interesados, presente un ejemplo de cómo un mal procesamiento de información realizado por un sistema informático, puede conducir a una toma de decisiones incorrecta:
-* Gerente de unaempresa vinculada a la industria automotriz.
-* Funcionario de ARBA.
-* Consejo Directivo de una facultad.
+    * Gerente de una empresa vinculada a la industria automotriz.
+
+        Si la información recolectada por el sistema no es exacta, el gerente tomará decisiones que probablemente sean incorrectas y esto provocará graves perjuicios a la empresa, desde el cierre de una sede de la empresa por falta de fondos para mantenerla a la quiebra total de la firma.
+
+    * Funcionario de ARBA.
+
+        Dado que el puesto no es especialmente crítico, los perjuicios que puede llegar a provocar son limitados al área donde ejerza su influencia. Sin embargo, los daños también podrían ser catastróficos: si, por ejemplo, se produce una carga incorrecta de las deudas de una cantidad X de personas esto afecta seriamente la imagen de ARBA, mucho más si el problema radica en que la gente debe pagar más de lo que se estipula. Podría ser también un error en la carga de un nombre lo cuál no tendría impacto practicamente.
+
+    * Consejo Directivo de una facultad.
+
+        El daño se limita a la facultad. Podrían ignorarse necesidades importantes o tomar decisiones que solucionen problemas no tan críticos. Los fondos se gastarían en problemas que quizá no eran tar urgentes y los problemas críticos se harían aun más críticos de forma que si suelen ser complejos de mitigar, se hacen aun más difíles de solucionar y sus consecuencias se hacen más profundas.
+
 3. ¿Qué tipo de abusos computacionales conoce? ¿Cuáles son las consecuencias de estos abusos?
 4. Explique al menos dos características que diferencien entre un abuso informático y otro tipo de fraude comercial.
 5. Describir con sus palabras que entiende por auditoría de sistemas de información.
