@@ -136,7 +136,11 @@
 
     Incluye la planificación, organización y control del desarrollo del sistema y otras actividades relacionadas con la calidad, la implantación de la política de calidad de una empresa requiere un sistema de la calidad, entendiendo como tal el conjunto de estructura, organización, responsabilidades, procesos, procedimientos y recursos que se establecen para llevar a cabo la gestión de la calidad. El sistema de la calidad no deberá extenderse más que a las exigencias para realizar los objetivos de la calidad.
 
-11. Los “Objetivos” del SGC establecen las metas a las que se desea llegar con la certificación y deben suponer un avance, buscando la “mejora continua”. Indique qué características deben tener.
+11. Los objetivos del SGC establecen las metas a las que se desea llegar con la certificación y deben suponer un avance, buscando la mejora continua. Indique qué características deben tener.
+
+[comment]: <> (La medición es el primer paso para el control y la mejora. Si no se puede medir algo, no se lo puede entender. Si no se lo entiende, no se puede controlar. Si no se puede controlar, no se puede mejorar.)
+    Un sistema de gestión de calidad requiere que sus objetivos sean medibles y coherentes con la política de la calidad y la planificación estratégica establecidas por la organización. Para establecer los objetivos, entonces, es necesarioque la empresa analice en profundidad su política de la calidad. Dicho de otra manera, este análisis debe orientarse a examinar qué es lo que desea lograr la empresa con su SGC. En ese sentido, la finalidad primordial que debe guiar el funcionamiento del SGC es, sin dudas, poner en marcha el proceso de mejora continua en la organiación.
+
 12. Dados los siguientes objetivos, indicar si están bien escritos y por qué. Reescribir los que no considere correctos de modo que cumplan con las características.
     1. No tener solicitudes de cambios en los requerimientos funcionales.
     2. Tener pocos errores en los requerimientos funcionales implementados.
