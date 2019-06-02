@@ -3,6 +3,16 @@
 ## Parte I: Conceptos generales
 
 1. Explicar las razones principales para auditar sistemas y dar ejemplos de cada una.
+
+    Hay 7 razones importantes:
+    * Costos por pérdida de datos: los datos proveen a la organización de una imagen de sí misma, de su entorno, de su historia, y de su futuro. Si la imagen es exacta, la organización aumenta las posibilidades de adaptarse y sobrevivir a un entorno cambiante. Si la imagen es inexacta, se pueden incurrir en pérdidas sustanciales. Ejemplo: pérdida de cuentas corrientes.
+    * Costos por toma de decisiones incorrectas: la importancia de datos exactos depende del tipo de decisiones hechas por personas que tienen algún interés en la organización. El tener reglas de decisión exactas en un sistema de información depende del tipo de decisiones hechas por tal tipo de personas. Una regla de decisión incorrecta puede tener un impacto menor(por ejemplo, cálculo de amortización erróneo en un bien de poco valor). En otras, el impacto puede ser considerable(por ejemplo, quiebra de la organización).
+    * Costos por abusos computacionales: un abuso computacional es un incidente asociado con tecnología informática, en el cual una víctima sufre o podría haber sufrido pérdida, y un perpretador con intención logra o podría haber logrado ganancia. Ejemplos: hacking, virus, acceso físico ilegal, abuso de privilegios.
+    * Costos por errores de computación: pueden ser altos, en términos de pérdida de vidas humanas, privación de libertad o daño al medio ambiente. Por ejemplo, los sistemas suelen encargarse del monitoreo de pacientes, cirujías, vuelo de misiles, reactores nucleares, entre otros. Un error pequeño de cómputo puede hacer que se rompa absolutamente todo.
+    * Valor de hardware, software y personal: es decir, la importancia que tiene cada una de esas categorías y el plan de contingencia para cuando fallen. Por ejemplo, qué pasa si un componente de hardware crítico deja de funcionar; qué pasa si el software se destruye; qué pasa si un profesional altamente calificado deja la empresa; entre otros.
+    * Evolución controlada de TI: se basa en que cuanto más complejo es un sistema más complejo se hace poder controlarlo y confiar en él. Esto hace que las consecuencias de usar tales sistemas puedan ser catastróficas. Debe hacer se hincapié en evaluar y controlar tales tecnologías.
+    * Mantenimiento de privacidad: es posible que un sistema automatizado pueda integrar y buscar información de alguien por lo que es también posible que, con los datos recolectados de ese alguien, sea obtenida información detallada de tal persona y se la use en su contra.
+
 2. Para cada uno de los siguientes interesados, presente un ejemplo de cómo un mal procesamiento de información realizado por un sistema informático, puede conducir a una toma de decisiones incorrecta:
 * Gerente de unaempresa vinculada a la industria automotriz.
 * Funcionario de ARBA.
