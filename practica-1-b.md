@@ -125,6 +125,13 @@
     * Agilidad en el tiempo de desarrollo de un sistema.
 
 9. ¿Qué beneficios trae aplicar un Sistema de Gestión de la Calidad (SGC)?
+
+    * Por la ISO 9001 se asegura que el negocio en cuestión cumple con los requisitos legales y del cliente.
+    * Aumenta el rendimiento de la organización. La norma ISO 9001 ayuda a implementar procesos simplificados y mejorar la eficiencia operacional.
+    * Asegura la toma de decisiones y mejora la satisfacción del cliente.
+    * Optimiza las aperaciones para así cumplir y superar los requisitos de sus clientes.
+    * Mejora el rendimiento financiero.
+    
 10. El “Alcance” del SGC es una descripción resumida del mismo y su naturaleza. Indique qué características debe tener.
 11. Los “Objetivos” del SGC establecen las metas a las que se desea llegar con la certificación y deben suponer un avance, buscando la “mejora continua”. Indique qué características deben tener.
 12. Dados los siguientes objetivos, indicar si están bien escritos y por qué. Reescribir los que no considere correctos de modo que cumplan con las características.
