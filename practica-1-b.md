@@ -176,6 +176,18 @@
 
 14. Indique para cada uno de los siguientes ítems, que estándares/normas son las que más se adaptan para realizar su evaluación. Justifique su respuesta.
     1. Aplicar un SGC a un proceso de mi empresa de desarrollo de software.
+
+        ISO 9001.
+
     2. Funcionamiento del área contable de la Facultad de Informática.
+
+        ISO/IEC 9126.
+
     3. Manejo de los datos de una empresa.
+
+        ISO/IEC 25000.
+
     4. Desarrollar un software de reserva de aulas para la facultad.
+
+        ISO/IEC 9126.
+        
