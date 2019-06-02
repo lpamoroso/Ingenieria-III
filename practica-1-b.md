@@ -143,8 +143,17 @@
 
 12. Dados los siguientes objetivos, indicar si están bien escritos y por qué. Reescribir los que no considere correctos de modo que cumplan con las características.
     1. No tener solicitudes de cambios en los requerimientos funcionales.
+
+        No estoy seguro. Para mi es poco coherente.
+
     2. Tener pocos errores en los requerimientos funcionales implementados.
+
+        No está bien escrito ya que no es medible, es decir, en vez de decir "pocos errores" podríase decir "Tener, a lo sumo, _x_ errores" siendo _x_ un número entero entre 0 y 23, por dar un ejemplo e ir mejorando ese número.
+
     3. Tener un desvío promedio(por tarea) entre el tiempo insumido en desarrollo y el tiempo estimado menor al 25%.
+
+        Para mí, está bien escrito porque es algo medible(un tiempo estimado menor al 25%) y es algo que es coherente, tiene sentido.
+
 13. El “Mapa de Procesos” buscamantener  una  estructura  coherente  de  la  información documentada del sistema.
     1. Indique cuáles son los tipos de procesos que debe contener y qué representan cada uno de ellos.
     2. Indique qué significan los clientes en el Mapa de Procesos y qué representan.
