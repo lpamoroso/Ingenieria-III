@@ -132,7 +132,10 @@
     * Optimiza las aperaciones para así cumplir y superar los requisitos de sus clientes.
     * Mejora el rendimiento financiero.
     
-10. El “Alcance” del SGC es una descripción resumida del mismo y su naturaleza. Indique qué características debe tener.
+10. El alcance del SGC es una descripción resumida del mismo y su naturaleza. Indique qué características debe tener.
+
+    Incluye la planificación, organización y control del desarrollo del sistema y otras actividades relacionadas con la calidad, la implantación de la política de calidad de una empresa requiere un sistema de la calidad, entendiendo como tal el conjunto de estructura, organización, responsabilidades, procesos, procedimientos y recursos que se establecen para llevar a cabo la gestión de la calidad. El sistema de la calidad no deberá extenderse más que a las exigencias para realizar los objetivos de la calidad.
+
 11. Los “Objetivos” del SGC establecen las metas a las que se desea llegar con la certificación y deben suponer un avance, buscando la “mejora continua”. Indique qué características deben tener.
 12. Dados los siguientes objetivos, indicar si están bien escritos y por qué. Reescribir los que no considere correctos de modo que cumplan con las características.
     1. No tener solicitudes de cambios en los requerimientos funcionales.
