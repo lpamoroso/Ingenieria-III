@@ -31,6 +31,9 @@
     Pueden ser virus, hacking, abuso de privilegios, etc. Las consecuencias puedne ser violación de privacidad; daño físico a personas; destrucción, modificación o modificación de activos; uso no autorizado de activos; etc.
 
 4. Explique al menos dos características que diferencien entre un abuso informático y otro tipo de fraude comercial.
+
+    * El incidente está asociado a tecnología informática. 
+
 5. Describir con sus palabras que entiende por auditoría de sistemas de información.
 6. Explique los cuatro objetivos de la auditoría de sistemas de información.
 7. ¿Qué significa que la alta gerencia implemente un sistema de control interno? ¿Cómo se lleva a cabo?
