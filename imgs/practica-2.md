@@ -27,6 +27,9 @@
         El daño se limita a la facultad. Podrían ignorarse necesidades importantes o tomar decisiones que solucionen problemas no tan críticos. Los fondos se gastarían en problemas que quizá no eran tar urgentes y los problemas críticos se harían aun más críticos de forma que si suelen ser complejos de mitigar, se hacen aun más difíles de solucionar y sus consecuencias se hacen más profundas.
 
 3. ¿Qué tipo de abusos computacionales conoce? ¿Cuáles son las consecuencias de estos abusos?
+
+    Pueden ser virus, hacking, abuso de privilegios, etc. Las consecuencias puedne ser violación de privacidad; daño físico a personas; destrucción, modificación o modificación de activos; uso no autorizado de activos; etc.
+
 4. Explique al menos dos características que diferencien entre un abuso informático y otro tipo de fraude comercial.
 5. Describir con sus palabras que entiende por auditoría de sistemas de información.
 6. Explique los cuatro objetivos de la auditoría de sistemas de información.
