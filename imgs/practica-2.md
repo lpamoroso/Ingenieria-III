@@ -35,6 +35,9 @@
     * El incidente está asociado a tecnología informática. 
 
 5. Describir con sus palabras que entiende por auditoría de sistemas de información.
+
+    Es un proceso en el que se recolecta y evalúa evidencia para determinar si el sistema automático preserva los activos, mantiene la integridad de los datos, permite que los objetivos organizacionales se alcancen con eficacia y usa los recursos con eficiencia.
+
 6. Explique los cuatro objetivos de la auditoría de sistemas de información.
 7. ¿Qué significa que la alta gerencia implemente un sistema de control interno? ¿Cómo se lleva a cabo?
 
