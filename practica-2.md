@@ -39,6 +39,12 @@
     Es un proceso en el que se recolecta y evalúa evidencia para determinar si el sistema automático preserva los activos, mantiene la integridad de los datos, permite que los objetivos organizacionales se alcancen con eficacia y usa los recursos con eficiencia.
 
 6. Explique los cuatro objetivos de la auditoría de sistemas de información.
+
+    * Preservar los activos: es decir, resguardar el hardware, software, personas, insumos, y todo aquellos bienes, derechos y otros recursos de los que dispoonga la empresa.
+    * Mantener la integridad de los datos: es decir, mantener la completitud, consistencia, veracidad y correctitud de éstos. Si la integridad de los datos no se mantuviera, la organización no posee representación de sí misma o de los eventos.
+    * Alcanzar los objetivos organizacionales con eficacia: es decir, que la organización alcance los objetivos que se proponga con los efectos deseados
+    * Usar con eficiencia los recursos: esto es, usar los recursos mínimos para satisfacer los objetivos que se le planteen a la organización.
+
 7. ¿Qué significa que la alta gerencia implemente un sistema de control interno? ¿Cómo se lleva a cabo?
 
 Parte II: Controles y riesgos de Auditoría
