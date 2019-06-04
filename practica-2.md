@@ -47,6 +47,17 @@
 
 7. ¿Qué significa que la alta gerencia implemente un sistema de control interno? ¿Cómo se lleva a cabo?
 
+    Un sistema de control interno es aquel implementado por la alta gerencia con el fin de alcanzar los objetivos de la auditoría. El uso de computadoras afecta de varias manera la implementación de los componentes de un sistema de control interno. Incluye:
+
+    * Separación de obligaciones: es decir, tener en cuenta que la automatización que proveen los sistemas hace que un mismo programa realize múltiples funciones que, de forma manual, personas diferentes realizarían.
+    * Delegación clara de autoridad y responsabilidades: esto es, delegación clara de autoridad y responsabilidad. Es una parte esencial ya que en un sistema automatizado hacer esto de una manera no ambigua puede ser dificultoso.
+    * Reclutamiento y entrenamiento de personal calificado: en otras palabras, personas responsables que puedan manejar el poder que supone regular los sistemas automatizados. Con la rotación de personal y el poco tiempo de evaluación, no es algo fácil de asegurar.
+    * Sistema de autorizaciones: dicho de otra manera, deben ser consideradas las diferentes autorizaciones, desde una lista de precios hasta la compra de activos de alto valor. En los sistemas automatizados, las autorizaciones están embebidas dentro de los programas, por lo que los auditores no solo deben controlar la autorización en sí, sino también si se lleva a cabo exitosamente.
+    * Documentos y registros adecuados: en otros términos, asegurar que los documentos y los registros sean apropiados. En un sistema bien diseñado deberían haber mayores registros de auditoría que en un sistema manual. Se deben prever controles de acceso y facilidades de acceso para asegurar que los rastros de auditoría sean exactos y completos.
+    * Control físico y documentación sobre los activos: o sea, controles de acceso y registor de éstos. Tanto en los sistemas manuales como en los automatizados es un factor crucial, la diferencia es que en los segundos todos los registros necesarios pueden mantenerse en un solo lugar. En tal contexto, la posibilidad de abuso o desastre por la concentración de información aumenta radicalmente, por lo que el sistema debe prevenir controles internos de supervisión. El auditor solamente accederá a los registros de auditoría para evaluar la gestión de los empleados.
+    * Chequeos independientes de performance: dicho de otro modo, evaluar los controles establecidos patra desarrollar, modificar, operar y mantener programas. En sistemas automatizados, los programas siempre ejecutan el mismo algoritmo a menos que haya una falla en el software o en el hardware.
+    * Comparación periódica de activos con registros contabilizados: es decir, que los datos que representan los activos deben ser controlados con los activos reales, a fin de determinar falta de complexitud o inexactitud de los datos. En sistemas automatizados, se deben preparar programas que se encarguen de dicha tarea. Nuevamente es importante la implementación de controles en dichas tareas.
+
 Parte II: Controles y riesgos de Auditoría
 
 8. Explique por qué un control en un sistema de información es un sistema.
