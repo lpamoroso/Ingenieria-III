@@ -84,6 +84,11 @@ Parte II: Controles y riesgos de Auditoría
     * Según cohesión: cada subsistema debe ser internamente cohesivo. Todas las actividades realizadas por el sistema apuntan a cumplir la función principal del subsistema.
 
 13. ¿De qué manera se mide la confiabilidad de los controles?
+
+    Determinando el menor nivel de los subsistemas, primero, y evaluando la confiabilidad de los controles en cada subsistema, por último. Es necesario identificar todos los posibles tipos de eventos que puden ocurrir en el subsistema, considerar todos los eventos legales e ilegales. Para tal fin, es que hay que considerar las principales funciones que realiza el subsistema.  
+    Un auditor recolecta evidencia sobre la existencia y confiabilidad de los controles para determinar si las pérdidas por los eventos ilegales se reducen a niveles aceptables. Para cada evento ilegal debe considerarse cómo los controles cubren tal evento, qué tan confiables son los controles y si podría ocurrir un error materia o alguna otra irregularidad.  
+    La evaluación de la confiabilidad va de abajo hacia arriba, siendo los subsistemas de menor nivel los componentes de los de mayor nivel. Habiéndose analizado la confiabilidad de los subsistemas de menor nivel puede analizarse el impacto, la naturaleza y la frecuencia de los eventos ilegales en los sistema de mayor nivel.
+
 14. Identificar cuatro tipos de riesgos. Explicar la naturaleza de cada uno de ellos.
 
 Parte III: Proceso de Auditoría
