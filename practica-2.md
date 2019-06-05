@@ -91,6 +91,11 @@ Parte II: Controles y riesgos de Auditoría
 
 14. Identificar cuatro tipos de riesgos. Explicar la naturaleza de cada uno de ellos.
 
+    * Riesgo deseado: por ejemplo, las características del gerenciamiento.
+    * Riesgo inherente: siguiendo con las características del gerenciamiento, si éste es demasiado agresivo probablemente surjan riesgos indeseados por la naturaleza de tales manejos. Este tipo de riesgos está fuera de control del auditor por lo que difícilmente se puede determinar o tomar acciones para desaparecerlo, ya que es algo innato de la actividad realizada por la empresa.
+    * Riesgo de control: siguiendo con las características del gerenciamiento, si éste es considerado como un riesgo, entonces deben existir controles: la confiabilidad de los controles gerenciales y de aplicación determinan la probabilidad de riesgo de control.
+    * Riesgo de detección: finalizando con el ejemplo de las características de gerenciamiento, debe determinarse el nivel de fracaso que resulta tolerable. Para tal fin, se diseñan procedimientos de recolección de evidencia para intentar lograr el nivel de riesgo deseado.
+
 Parte III: Proceso de Auditoría
 
 15. Explicar brevemente el proceso de auditoría.
