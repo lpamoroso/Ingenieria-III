@@ -61,6 +61,9 @@
 Parte II: Controles y riesgos de Auditoría
 
 8. Explique por qué un control en un sistema de información es un sistema.
+
+    Porque un control solo puede ser control en el contexto de un sistema que asegure la prevención, detección y corrección de eventos ilegales. 
+
 9. Explicar las diferencias entre un control preventivo, control detectivo, y control correctivo. Provea ejemplos para cada tipo de control.
 10. ¿Cuál es la tarea del auditor en cuanto a los controles?
 11. Explique desde el punto de vista de auditoría de sistemas de información el concepto de "factorizar en subsistemas" y qué criterio(s) se aplica(n) para factorizar un sistema en subsistemas.
