@@ -79,6 +79,10 @@ Parte II: Controles y riesgos de Auditoría
     La factorización en subsistemas es el primer paso para comprender un sistema complejo. Se define un subsistema como un componente de un sistema que realiza ciertas funciones básicas necesarias para el sistema en general y le permite atender sus objetivos fundamentales. Los subsistemas son componentes lógicas y no físicas. El proceso de particionar es lo que se llama factorización.
 
 12. Indique qué otros criterios de factorización existen.
+
+    * Según acoplamiento: cada subsistema debería ser relativamente independiente de otros subsistemas. Sistemas con poco acoplamiento son más fáciles de comprender.
+    * Según cohesión: cada subsistema debe ser internamente cohesivo. Todas las actividades realizadas por el sistema apuntan a cumplir la función principal del subsistema.
+
 13. ¿De qué manera se mide la confiabilidad de los controles?
 14. Identificar cuatro tipos de riesgos. Explicar la naturaleza de cada uno de ellos.
 
