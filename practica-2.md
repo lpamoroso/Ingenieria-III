@@ -75,6 +75,9 @@ Parte II: Controles y riesgos de Auditoría
     La tarea de un auditor es determinar si los controles están ubicados y funcionan para prevenir los eventos ilegales.
 
 11. Explique desde el punto de vista de auditoría de sistemas de información el concepto de "factorizar en subsistemas" y qué criterio(s) se aplica(n) para factorizar un sistema en subsistemas.
+
+    La factorización en subsistemas es el primer paso para comprender un sistema complejo. Se define un subsistema como un componente de un sistema que realiza ciertas funciones básicas necesarias para el sistema en general y le permite atender sus objetivos fundamentales. Los subsistemas son componentes lógicas y no físicas. El proceso de particionar es lo que se llama factorización.
+
 12. Indique qué otros criterios de factorización existen.
 13. ¿De qué manera se mide la confiabilidad de los controles?
 14. Identificar cuatro tipos de riesgos. Explicar la naturaleza de cada uno de ellos.
