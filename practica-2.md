@@ -71,6 +71,9 @@ Parte II: Controles y riesgos de Auditoría
     * Control correctivo: aquellos que aseguran que las acciones correctivas sean tomadas para revertir un evento no deseado. También reducen la cantidad de pérdidas cuando un evento ilegal ocurre. Ejemplo: un programa que detecta el ruido en comunicaciones y permite corregir datos corruptos.
 
 10. ¿Cuál es la tarea del auditor en cuanto a los controles?
+
+    La tarea de un auditor es determinar si los controles están ubicados y funcionan para prevenir los eventos ilegales.
+
 11. Explique desde el punto de vista de auditoría de sistemas de información el concepto de "factorizar en subsistemas" y qué criterio(s) se aplica(n) para factorizar un sistema en subsistemas.
 12. Indique qué otros criterios de factorización existen.
 13. ¿De qué manera se mide la confiabilidad de los controles?
