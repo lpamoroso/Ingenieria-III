@@ -65,6 +65,11 @@ Parte II: Controles y riesgos de Auditoría
     Porque un control solo puede ser control en el contexto de un sistema que asegure la prevención, detección y corrección de eventos ilegales. 
 
 9. Explicar las diferencias entre un control preventivo, control detectivo, y control correctivo. Provea ejemplos para cada tipo de control.
+
+    * Control preventivo: aquellos que reducen la probabilidad de que un evento ocurra. Ejemplo: presupuesto financiero para un determinado proyecto.
+    * Control detectivo: aquellos que identifican los eventos en el momento en que se presentan. Son más costosos que los preventivos. Reducen la cantidad de pérdidas cuando un evento ilegal ocurre. Ejemplo: un programa que valida datos de input, rechazando los erroneos.
+    * Control correctivo: aquellos que aseguran que las acciones correctivas sean tomadas para revertir un evento no deseado. También reducen la cantidad de pérdidas cuando un evento ilegal ocurre. Ejemplo: un programa que detecta el ruido en comunicaciones y permite corregir datos corruptos.
+
 10. ¿Cuál es la tarea del auditor en cuanto a los controles?
 11. Explique desde el punto de vista de auditoría de sistemas de información el concepto de "factorizar en subsistemas" y qué criterio(s) se aplica(n) para factorizar un sistema en subsistemas.
 12. Indique qué otros criterios de factorización existen.
