@@ -146,7 +146,7 @@
     * Opinión con calificación: se concluye que han ocurrido pérdidas materiales o existen registros incorrectos, pero las cantidades no son considerables.
     * Opinión no calificada: el auditor considera que no han ocurrido pérdidas materiales o no existen registros incorrectos.
 
-Parte IV: Gobernanza de TI
+## Parte IV: Gobernanza de TI
 
 21. Explique el significado del concepto "Gobernanza de TI".
 22. Explique qué es COBIT y cuáles son sus elementos.
