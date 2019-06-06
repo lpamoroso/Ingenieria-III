@@ -113,6 +113,11 @@
     5. Procedimientos de revisión analítica.
 
 17. Enumere tres tipos de testeos que se pueden realizar durante una auditoría.
+
+    1. Cuestionarios.
+    2. Inspecciones.
+    3. Observaciones.
+
 18. ¿Cómo se lleva a cabo la planificación de una auditoría? Diferencias entre auditoría interna y externa.
 19. Describa el contenido de un informe de auditoría.
 20. Describa los cuatrotipos de opinión que un auditor puede emitir.
