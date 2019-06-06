@@ -105,6 +105,13 @@
     * La segunda, para determinar la eficiencia y eficacia de las operaciones.  
 
 16. Enunciar cinco tipos de procedimientos de auditoría que pueden ser usados para recolectar evidencia en una auditoría.
+
+    1. Procedimientos para comprender los controles.
+    2. Testeo de controles.
+    3. Testeos substantivos de detalle de transacciones.
+    4. Testeos substantivos de detalle de balances contables.
+    5. Procedimientos de revisión analítica.
+
 17. Enumere trestipos de testeos que se pueden realizar durante una auditoría.
 18. ¿Cómo se lleva a cabo la planificación de una auditoría? Diferencias entre auditoría interna y externa.
 19. Describa el contenido de un informe de auditoría.
