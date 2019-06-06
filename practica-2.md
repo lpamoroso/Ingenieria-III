@@ -138,7 +138,7 @@
     4. Recomendaciones para abordar las conclusiones críticas.
     5. Datos que respalden las conclusiones críticas.
 
-20. Describa los cuatrotipos de opinión que un auditor puede emitir.
+20. Describa los cuatro tipos de opinión que un auditor puede emitir.
 
 Parte IV: Gobernanza de TI
 
