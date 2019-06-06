@@ -58,7 +58,7 @@
     * Chequeos independientes de performance: dicho de otro modo, evaluar los controles establecidos patra desarrollar, modificar, operar y mantener programas. En sistemas automatizados, los programas siempre ejecutan el mismo algoritmo a menos que haya una falla en el software o en el hardware.
     * Comparación periódica de activos con registros contabilizados: es decir, que los datos que representan los activos deben ser controlados con los activos reales, a fin de determinar falta de complexitud o inexactitud de los datos. En sistemas automatizados, se deben preparar programas que se encarguen de dicha tarea. Nuevamente es importante la implementación de controles en dichas tareas.
 
-Parte II: Controles y riesgos de Auditoría
+## Parte II: Controles y riesgos de Auditoría
 
 8. Explique por qué un control en un sistema de información es un sistema.
 
@@ -96,7 +96,7 @@ Parte II: Controles y riesgos de Auditoría
     * Riesgo de control: siguiendo con las características del gerenciamiento, si éste es considerado como un riesgo, entonces deben existir controles: la confiabilidad de los controles gerenciales y de aplicación determinan la probabilidad de riesgo de control.
     * Riesgo de detección: finalizando con el ejemplo de las características de gerenciamiento, debe determinarse el nivel de fracaso que resulta tolerable. Para tal fin, se diseñan procedimientos de recolección de evidencia para intentar lograr el nivel de riesgo deseado.
 
-Parte III: Proceso de Auditoría
+## Parte III: Proceso de Auditoría
 
 15. Explicar brevemente el proceso de auditoría.
 16. Enunciar cinco tipos de procedimientos de auditoría que pueden ser usados para recolectar evidencia en una auditoría.
