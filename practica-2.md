@@ -112,7 +112,7 @@
     4. Testeos substantivos de detalle de balances contables.
     5. Procedimientos de revisión analítica.
 
-17. Enumere trestipos de testeos que se pueden realizar durante una auditoría.
+17. Enumere tres tipos de testeos que se pueden realizar durante una auditoría.
 18. ¿Cómo se lleva a cabo la planificación de una auditoría? Diferencias entre auditoría interna y externa.
 19. Describa el contenido de un informe de auditoría.
 20. Describa los cuatrotipos de opinión que un auditor puede emitir.
