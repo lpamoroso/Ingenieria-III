@@ -99,6 +99,11 @@
 ## Parte III: Proceso de Auditoría
 
 15. Explicar brevemente el proceso de auditoría.
+
+    La auditoría puede encararse de dos maneras distintas: 
+    * La primera, si ocurrieron pérdidas materiales o la información financiera es errónea.
+    * La segunda, para determinar la eficiencia y eficacia de las operaciones.  
+
 16. Enunciar cinco tipos de procedimientos de auditoría que pueden ser usados para recolectar evidencia en una auditoría.
 17. Enumere trestipos de testeos que se pueden realizar durante una auditoría.
 18. ¿Cómo se lleva a cabo la planificación de una auditoría? Diferencias entre auditoría interna y externa.
