@@ -119,6 +119,15 @@
     3. Observaciones.
 
 18. ¿Cómo se lleva a cabo la planificación de una auditoría? Diferencias entre auditoría interna y externa.
+
+    La planificación varía entre una auditoría interna y externa:
+
+    Categoría a evaluar|Auditoría interna | Auditoría externa 
+    :-----------------:|:----------------:|:------------------:
+    Planificación | Incluye asignar personal adecuado a las auditorías, obtener información del cliente, realizar procedimientos de revisión analíticos para comprender el negocio del cliente e identificar áreas de riesgo. | Incluye investigar nuevos clientes, asignar personal adecuado a las auditorías, obtener el contrato, obtener información del cliente, realizar procedimientos de revisión analíticos para comprender el negocio del cliente e identificar áreas de riesgo.
+    Mayor preocupación | El tamaño de las pérdidas que pudiera haber por operaciones ineficientes o ineficaces. | El tamaño de los errores en los estados financieros. 
+    Actitud del auditor ante un control débil(por ejemplo, para entender las implicancias) | Expandir sus investigaciones para lograr una mejor comprensión acerca de la naturaleza e implicancias de estas debilidades. | cortar sus investigaciones(sobre causas) y realizar testeos más amplios.
+
 19. Describa el contenido de un informe de auditoría.
 20. Describa los cuatrotipos de opinión que un auditor puede emitir.
 
