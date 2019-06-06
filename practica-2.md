@@ -140,6 +140,12 @@
 
 20. Describa los cuatro tipos de opinión que un auditor puede emitir.
 
+    Hay varios tipos de opiniones aceptadas:
+    * Opinión excusada: en base al trabajo realizado no se puede emitir opinión.
+    * Opinión adversa: se concluye que han ocurrido pérdias materiales o que los estado financieros están distorcionados.
+    * Opinión con calificación: se concluye que han ocurrido pérdidas materiales o existen registros incorrectos, pero las cantidades no son considerables.
+    * Opinión no calificada: el auditor considera que no han ocurrido pérdidas materiales o no existen registros incorrectos.
+
 Parte IV: Gobernanza de TI
 
 21. Explique el significado del concepto "Gobernanza de TI".
