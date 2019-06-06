@@ -129,6 +129,15 @@
     Actitud del auditor ante un control débil(por ejemplo, para entender las implicancias) | Expandir sus investigaciones para lograr una mejor comprensión acerca de la naturaleza e implicancias de estas debilidades. | cortar sus investigaciones(sobre causas) y realizar testeos más amplios.
 
 19. Describa el contenido de un informe de auditoría.
+
+    Un informe típico debería incluir:
+
+    1. Una introducción que describa los objetivos de la auditoría.
+    2. El enfoque general utilizado.
+    3. Un resumen de las conclusiones críticas.
+    4. Recomendaciones para abordar las conclusiones críticas.
+    5. Datos que respalden las conclusiones críticas.
+
 20. Describa los cuatrotipos de opinión que un auditor puede emitir.
 
 Parte IV: Gobernanza de TI
