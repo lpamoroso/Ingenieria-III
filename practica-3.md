@@ -43,6 +43,16 @@
     * Mantenimiento: dicho de otro modo, el soporte y las mejoras al sistema para enfrentar errores descubiertos y nuevos requisitos, respectivamente.
 
 6. Explique cómo se pueden clasificar los proyectos de software.
+
+    Pueden clasificarse según duración, riesgo, complejidad, valor comercial y costo. De ahí, se desprende la siguiente tabla:
+
+    Tipo | Duración | Riesgo | Complejidad | Tecnología | Problemas
+    :---:|:--------:|:------:|:-----------:|:----------:|:---------:
+    A | > 18 meses | Alto | Alta | De avanzada | Seguros 
+    B | 9-18 meses | Medio | Media | Actual | Muy probables
+    C | 3-9 meses | Bajo | Baja | Mejor del tipo | Algunos
+    D | < 3 meses | Muy bajo | Muy baja | Práctica | Ninguno
+
 7. Enumere y ejemplifique causas de fracaso de proyectos.
 8. Revise y compare las definiciones de administración de proyectos vistas en clase y otras disponibles en la Web(debe citar las definiciones utilizadas). En base a esas definiciones, se pide:
     1. Identificar aspectos comunes.
