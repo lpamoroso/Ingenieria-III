@@ -16,6 +16,14 @@
     * Controlar tiempos.
 
 3. Enumere y explique cuáles son los parámetros o restricciones que afectan a los proyectos.
+
+    Existen cinco restricciones que operan sobre un proyecto:
+    * Alcance: es decir, los límites del proyecto. Dice lo que se va a hacer, e, implícitamente, también lo que no se va a hacer. Es crítico que el alcance sea correcto y también es posible que cambie, por lo que, cuando ello ocurra, el líder del proyecto debe detectar tal cambio, acomodar el plan conforme a ello.
+    * Calidad: en particular, dos a tener en cuenta: la del producto y la del proceso.
+    * Recursos: esto es, los activos, tales como personas, equipos, facilidades físicas, o artefactos necesarios para la realización del proyecto. Su disponibilidad es limitada, puede planificarse su uso o puede ser contratado a terceros. También pueden ser fijos o variables y son centrales para la planificación de las actividades del proyecto y la finalización ordenada del mismo. En particular, las personas son el recurso más importante.
+    * Costo: es el presupuesto disponible para completar el proyecto.
+    * Tiempo: es la ventana de tiempo en la cual el proyecto debe terminarse.
+
 4. ¿En qué consiste el "Triángulo de alcance"? Explique el concepto.
 5. Identifique las etapas que forman parte de un proyecto y describa en pocas palabras en qué consiste cada una.
 6. Explique cómo se pueden clasificar los proyectos de software.
