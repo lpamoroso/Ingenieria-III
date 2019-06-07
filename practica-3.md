@@ -34,6 +34,14 @@
     * Si se reduce la fecha en la cual se debe entregar el proyecto, dada una calidad determinada, será necesario reducir el alcance del proyecto y/o aumentar los recursos que se dedicarán a él.
 
 5. Identifique las etapas que forman parte de un proyecto y describa en pocas palabras en qué consiste cada una.
+
+    * Análisis de requisitos: es decir, extraer los requisitos de un producto de software.
+    * Diseño y arquitectura: esto es, determinar cómo funcionará el sistema de forma general sin entrar en detalles.
+    * Programación: en otras palabras, reducir el diseño a un código específico.
+    * Pruebas: en otros términos, comprobar que el software realice correctamente las tareas indicadas en la especificación.
+    * Documentación: dicho de otra forma, lo concerniente a la documentación(valga la redundancia) del propio desarrollo del software y de la gestión del proyecto.
+    * Mantenimiento: dicho de otro modo, el soporte y las mejoras al sistema para enfrentar errores descubiertos y nuevos requisitos, respectivamente.
+
 6. Explique cómo se pueden clasificar los proyectos de software.
 7. Enumere y ejemplifique causas de fracaso de proyectos.
 8. Revise y compare las definiciones de administración de proyectos vistas en clase y otras disponibles en la Web(debe citar las definiciones utilizadas). En base a esas definiciones, se pide:
