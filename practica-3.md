@@ -3,6 +3,9 @@
 ## Parte I: Conceptos generales
 
 1. Explique con sus palabras en qué consiste un proyecto.
+
+    Un proyecto es una secuencia de actividades única, complejas y conectadas que tienen un objetivo o propósito y que deben ser completadas en un tiempo específico, dentro del presupuesto y de acuerdo a las especificaciones. Es cualquier actividad que dé como resultado un producto o un entregable. Es una organización temporal creada con el propósito de entregar uno o más producto empresarialesdentro de las restricciones de costo, calidad y recursos.
+
 2. Indique cuál es el trabajo de un líder de proyecto. Nombre al menos cinco tareas del mismo.
 3. Enumere y explique cuáles son los parámetros o restricciones que afectan a los proyectos.
 4. ¿En qué consiste el "Triángulo de alcance"? Explique el concepto.
