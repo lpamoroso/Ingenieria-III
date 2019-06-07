@@ -25,6 +25,14 @@
     * Tiempo: es la ventana de tiempo en la cual el proyecto debe terminarse.
 
 4. ¿En qué consiste el "Triángulo de alcance"? Explique el concepto.
+
+    Es un triángulo que muestra la relación entre las tres variables de las que depende la calidad: el alcance, los costos y el tiempo.
+    ![triangulo](imgs/triangulo.png)
+
+    Ejemplos de su funcionamiento:
+    * Si se reducen las personas que se dedican al proyecto, dada una calidad determinada, será necesario reducir el alcance del proyecto y/o aumentar su fecha de entrega.
+    * Si se reduce la fecha en la cual se debe entregar el proyecto, dada una calidad determinada, será necesario reducir el alcance del proyecto y/o aumentar los recursos que se dedicarán a él.
+
 5. Identifique las etapas que forman parte de un proyecto y describa en pocas palabras en qué consiste cada una.
 6. Explique cómo se pueden clasificar los proyectos de software.
 7. Enumere y ejemplifique causas de fracaso de proyectos.
