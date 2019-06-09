@@ -211,14 +211,51 @@
 
 22. Los modelos calculan el esfuerzo requerido E a través de una fórmula de la forma: E = a x Sᵇ x F, y la duración estimada a través de la fórmula: D = c x Eᵈ
     1. ¿Qué valor toma F para el modelo básico?
+
+        1.
+
     2. Describir brevemente en función de qué tipos de variables se calcula el factor de ajuste F en los otros dos modelos.
+
+        Los factores de ajuste son quince agrupados en cuatro categorías:
+        * Atributos del producto
+            + RELY(reliability): indica las posibles consecuencias para el usuario en el caso que todavía existan defectos en el producto(qué tan confiable-reliable- es el producto).
+            + DATA: tamaño de la base de datos a desarrollar en relación con el tamaño del programa.
+            + CPLX(complexity): complejidad de los módulos y el producto en general.
+        * Atributos del hardware
+            + TIME: limitaciones en el porcentaje del uso de la CPU.
+            + STOR: limitaciones en el uso de la memoria.
+            + VIRT: volatilidad de la máquina virtual(hardware + software) durante el desarrollo de software.
+            + TURN(computer turnaround): cuantifica el tiempo de respuesta de la computadora desde el punto de vista del programador. Cuando mayor sea el tiempo de respuesta, más alto será el esfuerzo humano.
+        * Atributos del personal
+            + ACAP(analyst capability): capacidad de los analistas en términos de habilidad de análisis, eficiencia, y capacidad para cooperar.
+            + AEXP(applications experience): experiencia del personal en aplicaciones similares.
+            + PCAP(programmer capability): capacidad de los programadores en términos de habilidad de programción, eficiencia y capacidad para cooperar.
+            + VEXP: experiencia de los programadores en la máquina virtual.
+            + LEXP: experiencia de los programadores en el lenguaje de programación a utilizar.
+        * Atributos del proyecto
+            + MODP: uso de prácticas modernas de programación(programación estructura, desarrollo top-dpwn, etc).
+            + TOOL: uso de herramientas de desarrollo de software.
+            + SCED(required development schedule): indica el esfuerzo necesario para cumplir con la planificación.
+
     3. Indicar cómo varían los valores de a y b, y c y d en ambas fórmulas de acuerdo al modo utilizado.
+
+    Tipo de sistema | a | b | c | d
+    :--------------:|:-----:|:-----:|:-----:|:-----:
+    Orgánico | 2.40 | 1.05 | 2.50 | 0.38
+    Embebido | 3.00 | 1.12 | 2.50 | 0.35
+    Semi-embebido | 3.60 | 1.20 | 2.50 | 0.32
+
     4. Describir las características generales de sistemas que apliquen a cada uno de estos modos:
         1. Orgánico
         2. Semi-embebido
         3. Embebido
 
     Dar ejemplos.
+
+    * Orgánicos: involucra procesamiento de datos, uso de bases de datos y se focaliza en transacciones y recuperación de datos. Ejemplo: sistema de facturación. 
+    * Embebido: contienen software de tiempo real que es una parte integral de un sistema mayor basado en hardware. Ejemplo: control de ascensores.
+    * Semi-embebido: entre orgánico y embebido. Presenta mayor procesamiento de transacciones. Ejemplo: monitorio de una red.
+    
 23. ¿Cuáles son los principales objetivos considerados en el desarrollo del modelo COCOMO 2.0? Explique diferencias con la versión original.
 24. Explique qué es la economía de escala. De al menos dos ejemplos.
 
