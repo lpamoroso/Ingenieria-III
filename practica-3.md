@@ -203,7 +203,12 @@
     2. Intermedio.
     3. Avanzado o detallado.
 
-Explique las diferencias entre estos modelos.
+    Explique las diferencias entre estos modelos.
+
+    * Básico: aplicable cuando se conoce muy poco del proyecto.
+    * Intermedio: aplicable luego de la especificación de requerimientos.
+    * Avanzado: aplicable cuando se termina el diseño.
+
 22. Los modelos calculan el esfuerzo requerido E a través de una fórmula de la forma: E = a x Sbx F, y la duración estimada a través de la fórmula: D = c x Ed
     1. ¿Qué valor toma F para el modelo básico?
     2. Describir brevemente en función de qué tipos de variables se calcula el factor de ajuste F en los otros dos modelos.
