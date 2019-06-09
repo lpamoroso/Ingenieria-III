@@ -271,6 +271,8 @@
 
 24. Explique qué es la economía de escala. De al menos dos ejemplos.
 
+    Es el poder que tiene una empresa cuando alcanza un nivel óptimo de producción para ir produciendo más a menor coste, es decir, a medida que la producción en una empresa crece, sus costes por unidad producida se reducen. Cuanto más produce, menos le cuesta producir cada unidad. Ejemplos: uso de herramientas CASE, simulaciones, entornos de pruebas.
+
 ## Parte IV: Gestión de proyectos
 
 25. Explicar qué es la gestión de los beneficios y en qué consiste su enfoque.
