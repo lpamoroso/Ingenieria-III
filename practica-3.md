@@ -74,9 +74,32 @@
         + control de calidad: por ejemplo, cuando se hace énfasis en que se vea bien o sea intuitivo, pero las funcionalidades no terminan de funcionar(valga la redundancia) bien.
         + control de avance: por ejemplo, cuando se le dedica mucho tiempo a una funcionalidad y, como consecuencia de eso, se le dedica menos tiempo a otra. Esto puede desembocar en funcionalidades incompletas o inacabadas e impactar fuertemente en la calidad del producto, además de que también impacta en los costos.
 8. Revise y compare las definiciones de administración de proyectos vistas en clase y otras disponibles en la Web(debe citar las definiciones utilizadas). En base a esas definiciones, se pide:
+
+    Definición provista por la cátedra:
+
+    > Es la planificación, la delegación, el seguimiento y el control de todos los aspectos del proyecto y la motivación de los participantes para alcanzar los objetivos del proyecto dentro de los objetivos de rendimiento esperados en términos de tiempo, costo, calidad, alcance, beneficios y riesgos.
+
+    Definición provista por wikipedia.org:
+
+    > Metodología utilizada a nivel mundial para alcanzar objetivos en un tiempo determinado llevando una gestión equilibrada y separando las urgencias de las tareas que realmente son importantes para el cliente
+
+    Definición provista por monografias.com:
+
+    > Es la disciplina de gestionar proyectos exitosamente, la cual puede y debe aplicarse durante el ciclo de vida de cualquier proyecto. Es la forma de planear, organizar, dirigir y controlar una serie de actividades realizadas por un grupo de personas que tienen un objetivo específico.
+
     1. Identificar aspectos comunes.
+
+        En todas las definiciones se habla de objetivos, de gestión, de planificación. Se habla de alcanzar objetivos controlando ciertos aspectos.
+
     2. Identificar aspectos mencionados que considere importantes y justificar.
+
+        * Es la planificación, la delegación, el seguimiento y el control...: no solo es importante planificar, sino controlar que lo planificado se lleve exitosamente a cabo delegando cada tarea sobre quien debe delegarse.
+        * en términos de tiempo, costo, calidad, alcance, beneficios y riesgos: no solo es importante alcanzar los objetivos, sino que la idea es alcanzarlos a tiempo, construyendo un producto de calidad, que no se esté descuidando ningún aspecto importante de las funcionalidades, que no se esté gastando plata en problemas que pudieran haberse evitado, que se hayan prevenido todos los riesgos posibles y que se hayan maximizado los beneficios.
+
     3. Enumerar ventajas de una buena administración de proyectos.
+
+        La principal ventaja con respecto a una mala administración es que si la administración es muy buena, es muy probable que las metas del proyecto se alcancen. La administración de proyectos garantiza que se alcancen los objetivos cumpliendo los estándares en términos de tiempo, calidad, beneficios, riesgos, costo y alcance.
+
 9. Cite los desafíos de la administración de proyectos. Indique qué puede hacerse para cumplirlos.
 10. Mencione y explique con sus palabras cómo esel ciclo de vida de un proyecto.
 11. Explique qué es un programa. Mencione diferencias entre programas y proyectos.
