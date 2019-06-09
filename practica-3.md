@@ -131,6 +131,12 @@
 
 12. ¿Cuál es la relación entre la administración de programas y la administración de proyectos?
 
+    Un programa vincula proyectos de varias maneras:
+    * Interdependencias de tareas entre proyectos.
+    * Limitaciones de recursos a través de múltiples proyectos.
+    * Actividades de mitigación del riesgo.
+    * Escalamientos de problemas, cambios de alcance, calidad, gestión de comunicaciones, riesgos, etc.
+
 ## Parte II: Actividades y tareasde proyectos
 
 13. Explique qué es Work Breakdown Structure(WBS) y cómo se construye.
