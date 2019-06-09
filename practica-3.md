@@ -101,6 +101,21 @@
         La principal ventaja con respecto a una mala administración es que si la administración es muy buena, es muy probable que las metas del proyecto se alcancen. La administración de proyectos garantiza que se alcancen los objetivos cumpliendo los estándares en términos de tiempo, calidad, beneficios, riesgos, costo y alcance.
 
 9. Cite los desafíos de la administración de proyectos. Indique qué puede hacerse para cumplirlos.
+
+    * Alto nivel de innovación: se puede resolver aplicando mayores cursos de capacitación o contratando más personal capacitado.
+    * Complejidad: dividiendo las tareas en módulos simples fáciles de completar.
+    * Requerimientos ambiguos: es necesario disponer de analistas altamente capacitados que sepan detectar ese problema.
+    * Falta de competencias necesarias.//preguntar
+    * Herramientas y técnicas inmaduras: utilizando estándares y técnicas que se comprobaron funcionan bien y siguiéndolas a raja tabla.
+    * Cumplir con regulaciones de gobierno: es necesario disponer de alguien especializado en materia gubernamental que alerte desde el principio si el proyecto puede violar una regulación gubernamental o que sepa como solucionar ese percance cuando surja.
+    * Cumplir con plazos: motivar al personal para mantener el compromiso.
+    * Tratar con proveedores.//preguntar
+    * Reportar a altas autoridades: es necesario que se aliente a los empleados a tales prácticas y que cuando surja una queja o un reporte se lleve a cabo una investigación para probar lo que el empleado dice.
+    * Retener personal calificado: se podría establecerles metas y que cada meta valga una cantidad determinada de dinero. Proporcionar beneficios.
+    * Administrar personal con diferentes niveles de productividad: debe haber personal especializado en esa tarea que se encargue de repartir equitativamente las tareas.
+    * Administrar equipos distribuidos en diferentes ubicaciones.//preguntar.
+    * Administrar entornos multiculturales y multilingua: es necesario que se disponga de personal poliglota que entienda las necesidades del cliente o empleados y que se especialice en la cultura de ellos para mantener un buen trato.
+
 10. Mencione y explique con sus palabras cómo esel ciclo de vida de un proyecto.
 11. Explique qué es un programa. Mencione diferencias entre programas y proyectos.
 12. ¿Cuál es la relación entre la administración de programas y la administración de proyectos?
