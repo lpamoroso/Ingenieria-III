@@ -168,10 +168,12 @@
 17. ¿Cuáles son las causas de variación en la duración de una actividad?
 
     Existen varias:
+    * Cantidad de recursos planificados para trabajar en ella.
     * Variación en los perfiles.
     * Eventos inesperados.
     * Eficiencia del tiempo de trabajo.
     * Errores e interpretaciones erróneas.
+    * Errores y malentendidos.
 
 18. Mencione las distintas técnicaspara estimar esfuerzo.
 
