@@ -140,6 +140,9 @@
 ## Parte II: Actividades y tareasde proyectos
 
 13. Explique qué es Work Breakdown Structure(WBS) y cómo se construye.
+
+    Es una descripción jerárquica del trabajo que se debe realizar para completar el proyecto. Es algo así como una descomposición funcional: el trabajo se divide en actividades y las actividades en tareas. Hay dos formas de construirlo: usando top-down o bottom-up. Si se utiliza top-down, puede realizarse usando el equipo completo o en sub-equipos. Si se utiliza el equipo completo, todos los miembros del equipo participan en la descomposición y se va descomponiendo hasta que los participantes estén satisfechos de que el trabajo ha sido suficientemente definido. Sus ventajas es que, debido al suficiente nivel de detalle, las estimaciones de costo, tiempo y recursos son más exactas. Además, brinda la oportunidad de que todos presten atención al WBS y se discuta en el momento. Si, en cambio, se opta por sub-equipos entonces el equipo completo acuerda la partición de primer nivel y se crean tantos sub-equipos como actividades hayan en tal nivel. Luego, a cada sub-equipo se le asigna la actividad para la cual tenga más experiencia y éste particiona tal actividad. Si así lo requiera, un sub-equipo puede solicitar ayuda externa. La ventaja de este enfoque es que lleva menos tiempo que el anterior.
+
 14. Mencione los distintos usos del WBS en la administración de proyectos.
 15. Indique cuáles son las características que deben tener las actividades para considerarse completas. Explique.
 16. Explique qué es la duración de una actividad. Indique cuál es la diferencia con el esfuerzode trabajo.
