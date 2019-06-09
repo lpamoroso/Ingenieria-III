@@ -116,7 +116,7 @@
     * Administrar equipos distribuidos en diferentes ubicaciones.//preguntar.
     * Administrar entornos multiculturales y multilingua: es necesario que se disponga de personal poliglota que entienda las necesidades del cliente o empleados y que se especialice en la cultura de ellos para mantener un buen trato.
 
-10. Mencione y explique con sus palabras cómo esel ciclo de vida de un proyecto.
+10. Mencione y explique con sus palabras cómo es el ciclo de vida de un proyecto.
 11. Explique qué es un programa. Mencione diferencias entre programas y proyectos.
 12. ¿Cuál es la relación entre la administración de programas y la administración de proyectos?
 
