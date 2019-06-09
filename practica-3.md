@@ -192,6 +192,12 @@
     Estimación de costos implica realizar predicciones de cuánto tiempo, esfuerzo y perfiles de RRHH son requeridos para construir un sistema de software. No debe confundirse estimación de costos con estimación de esfuerzo.
 
 20. ¿Cuáles son las técnicas de estimación y para qué se utilizan?
+
+    * Brainstorming: es una técnica para generar muchas ideas en un grupo y requiere la participación espontánea de todos. La técnica permite obtener nuevas ideas y soluciones creativas e innovadoras. El clima de participación y motivación asegura mayor calidad en las decisiones tomadas por el grupo, más compromkiso por la actividad y un sentimiento de responsabilidad compartido por todos.
+    * Opinión experta: utiliza la experiencia de un personal de desarrollo senior. El desarrollador describe los parámetros del proyecto y el experto hace predicciones basadas en experiencias previas. Se identifican similitudes y diferencias.
+    * Descomposición: el análisis se focaliza en el producto o en las tareas requeridas para construirlo. La idea es descomponer el producto en componentes y las actividades en tareas. Se basan en casos promedios o experiencias pasadas.
+    * Modelos: son técnicas que identifican contribuyentes claves al esfuerzo, generando fórmulas matemáticas que relacionan estos items al esfuerzo. Hay dos enfoques: bottom-up y top-down.
+
 21. El modelo COCOMO original es una colección de tres modelos:
     1. Básico.
     2. Intermedio.
