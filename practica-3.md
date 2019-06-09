@@ -166,6 +166,13 @@
     La duración es el tiempo transcurrido en días laborables para finalizar el proyecto(feriados, fines de semana y días no laborables no cuentan). El esfuerzo de trabajo es la labor requerida para completar una actividad. La labor puede realizarse en horas consecutivas o no. Ejemplo: una tarea pudo haber sido completado en 10 días pero el esfuerzo de trabajo fue solo de 20 horas.
 
 17. ¿Cuáles son las causas de variación en la duración de una actividad?
+
+    Existen varias:
+    * Variación en los perfiles.
+    * Eventos inesperados.
+    * Eficiencia del tiempo de trabajo.
+    * Errores e interpretaciones erróneas.
+
 18. Mencione las distintas técnicaspara estimar esfuerzo.
 
 ## Parte III: Costos
