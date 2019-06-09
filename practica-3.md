@@ -152,6 +152,15 @@
     * Informar el estado del proyecto.
 
 15. Indique cuáles son las características que deben tener las actividades para considerarse completas. Explique.
+
+    Deben considerarse 6 características:
+    1. Estado medible: es decir, puede medirse el estado en que se encuentra.
+    2. Acotada: esto es, una fecha de inicio y otra de fin.
+    3. Producir un entregable: en otras palabras, debe producir algún signo visible de que se completó, puede ser un documento, un producto, la autorización para continuar con la próxima tarea, etc.
+    4. Tiempo y costo estimable: en otros términos, que el tiempo y el costo sean fácilmente medibles. Si todas las tareas son fácilmente estimables, entonces las mediciones de tiempo y el costo serán más exactas.
+    5. Duración aceptable: dicho de otra manera, que la duración de la actividad sea admisible: que no se le asigne un mes(hay excepciones), pero tampoco 3 días.
+    6. Independiente: dicho de otro modo, que una vez iniciada no dependa de otra actividad. El esfuerzo dedicado a una actividad debe ser contínuo.
+
 16. Explique qué es la duración de una actividad. Indique cuál es la diferencia con el esfuerzode trabajo.
 17. ¿Cuáles son las causas de variación en la duración de una actividad?
 18. Mencione las distintas técnicaspara estimar esfuerzo.
