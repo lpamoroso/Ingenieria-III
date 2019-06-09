@@ -175,7 +175,7 @@
     * Errores e interpretaciones erróneas.
     * Errores y malentendidos.
 
-18. Mencione las distintas técnicaspara estimar esfuerzo.
+18. Mencione las distintas técnicas para estimar esfuerzo.
 
 ## Parte III: Costos
 
