@@ -54,6 +54,25 @@
     D | < 3 meses | Muy bajo | Muy baja | Práctica | Ninguno
 
 7. Enumere y ejemplifique causas de fracaso de proyectos.
+
+    * No prestar la suficiente atención a...
+        + casos de negocio: es decir, puede que al analista se le haya escapado el detalle de que el sistema que se estaba construyendo tuviera soporte para tarjeta de crédito. O puede que el analista no se lo hubiera preguntado pero el cliente "lo daba por sentado".
+        + calidad: por ejemplo, si el sistema es funcional pero la interfaz es fea o poco intuitiva.
+        + definición y medida de los entregables: en otras palabras, entregables demorados o que, simplemente, no funcionen del todo bien.
+
+    * Inadecuada...
+        + definición de responsabilidades: por ejemplo, si nadie o algunos no tienen del todo claro los alcances de su rol(no saben o no tienen claro del todo de qué son responsables).
+        + planificación y coordinación de recursos: por ejemplo, cuando se asigna más personal del requerido a una tarea y se descuidan otras.
+
+    * Pobre estimación de...
+        + duración: por ejemplo, que se calculen mal los tiempos a una funcionalidad y que se atrace todo.
+        + costos: por ejemplo, que se despilfarre con una funcionalidad y que se ahorre de forma extrema en funcionalidades en las que debería dedicarse mayor presupuesto, como consecuencia de tal despilfarro.
+
+    * Falta de...
+        + comunicación con los interesados: por ejemplo, que un desarrollador no comunique sus problemas con la gerencia y esto impacte notoriamente en la calidad del producto.
+        + compromiso de los interesados: por ejemplo, que uno de los desarrolladores no termine con lo que se comprometió a tiempo.
+        + control de calidad: por ejemplo, cuando se hace énfasis en que se vea bien o sea intuitivo, pero las funcionalidades no terminan de funcionar(valga la redundancia) bien.
+        + control de avance: por ejemplo, cuando se le dedica mucho tiempo a una funcionalidad y, como consecuencia de eso, se le dedica menos tiempo a otra. Esto puede desembocar en funcionalidades incompletas o inacabadas e impactar fuertemente en la calidad del producto, además de que también impacta en los costos.
 8. Revise y compare las definiciones de administración de proyectos vistas en clase y otras disponibles en la Web(debe citar las definiciones utilizadas). En base a esas definiciones, se pide:
     1. Identificar aspectos comunes.
     2. Identificar aspectos mencionados que considere importantes y justificar.
