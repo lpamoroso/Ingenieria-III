@@ -117,6 +117,13 @@
     * Administrar entornos multiculturales y multilingua: es necesario que se disponga de personal poliglota que entienda las necesidades del cliente o empleados y que se especialice en la cultura de ellos para mantener un buen trato.
 
 10. Mencione y explique con sus palabras cómo es el ciclo de vida de un proyecto.
+
+    1. Definir el proyecto: esto es, definir el alcance de éste, los costos, el tiempo que va a llevar.
+    2. Desarrollar un plan detallado: es decir, detallar qué se va a hacer y cómo se va a hacer.
+    3. Ejecución del proyecto: en otras palabras, poner en en marcha lo ya planificado.
+    4. Monitorear/Controlar: en otros términos, monitorear que el plan se lleve a cabo, corregir problemas que afecten a la ejecución de éste.
+    5. Terminación/Cierre: ya sea porque se han alcanzado los objetivos o no, en algún momento debe concluir el plan.
+
 11. Explique qué es un programa. Mencione diferencias entre programas y proyectos.
 12. ¿Cuál es la relación entre la administración de programas y la administración de proyectos?
 
