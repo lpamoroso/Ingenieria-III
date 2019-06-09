@@ -125,6 +125,10 @@
     5. Terminación/Cierre: ya sea porque se han alcanzado los objetivos o no, en algún momento debe concluir el plan.
 
 11. Explique qué es un programa. Mencione diferencias entre programas y proyectos.
+
+    Un programa es un grupo de proyectos relacionados que se gestionan de manera coordinada para obtener beneficios. Integra los proyectos de modo que se pueda alcanzar un resultado mayor que la suma de sus partes.  
+    Los proyectos y los programas tienen varias diferencias, la principal, que un programa es un conjunto de proyectos. Además, el proyecto tienen un alcance limitado a un producto en concreto; los programas tienen un espectro más amplio que puede cambiar dependiendo la expectativa de beneficios. Otra duferencia es acerca de los cambios: los proyectos intentan mantenerlos al mínimo y los programas es algo que deben esperar e incluso aceptar. En los proyectos, los líderes se centran en la entrega de las tareas y a cumplir los criterios de éxito; en los programas, éstos se centran más en la resolución de comflictos y gestión de relaciones.
+
 12. ¿Cuál es la relación entre la administración de programas y la administración de proyectos?
 
 ## Parte II: Actividades y tareasde proyectos
