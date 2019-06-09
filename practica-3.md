@@ -188,6 +188,9 @@
 ## Parte III: Costos
 
 19. Explique a qué se hace referencia con el término "Estimación de costos".
+
+    Estimación de costos implica realizar predicciones de cuánto tiempo, esfuerzo y perfiles de RRHH son requeridos para construir un sistema de software. No debe confundirse estimación de costos con estimación de esfuerzo.
+
 20. ¿Cuáles son las técnicas de estimación y para qué se utilizan?
 21. El modelo COCOMO original es una colección de tres modelos:
     1. Básico.
