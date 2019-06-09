@@ -137,7 +137,7 @@
     * Actividades de mitigación del riesgo.
     * Escalamientos de problemas, cambios de alcance, calidad, gestión de comunicaciones, riesgos, etc.
 
-## Parte II: Actividades y tareasde proyectos
+## Parte II: Actividades y tareas de proyectos
 
 13. Explique qué es Work Breakdown Structure(WBS) y cómo se construye.
 
