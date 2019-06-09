@@ -177,6 +177,14 @@
 
 18. Mencione las distintas técnicas para estimar esfuerzo.
 
+    Existen varias:
+    * Similitud con otras actividades.
+    * Datos históricos.
+    * Juicio experto.
+    * Técnica Delphi.
+    * Técnica de tres puntos.
+    * Técnica Delphi de banda ancha.
+
 ## Parte III: Costos
 
 19. Explique a qué se hace referencia con el término "Estimación de costos".
