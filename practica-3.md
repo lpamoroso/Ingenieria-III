@@ -162,6 +162,9 @@
     6. Independiente: dicho de otro modo, que una vez iniciada no dependa de otra actividad. El esfuerzo dedicado a una actividad debe ser contínuo.
 
 16. Explique qué es la duración de una actividad. Indique cuál es la diferencia con el esfuerzo de trabajo.
+
+    La duración es el tiempo transcurrido en días laborables para finalizar el proyecto(feriados, fines de semana y días no laborables no cuentan). El esfuerzo de trabajo es la labor requerida para completar una actividad. La labor puede realizarse en horas consecutivas o no. Ejemplo: una tarea pudo haber sido completado en 10 días pero el esfuerzo de trabajo fue solo de 20 horas.
+
 17. ¿Cuáles son las causas de variación en la duración de una actividad?
 18. Mencione las distintas técnicaspara estimar esfuerzo.
 
