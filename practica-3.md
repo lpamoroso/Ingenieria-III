@@ -255,8 +255,20 @@
     * Orgánicos: involucra procesamiento de datos, uso de bases de datos y se focaliza en transacciones y recuperación de datos. Ejemplo: sistema de facturación. 
     * Embebido: contienen software de tiempo real que es una parte integral de un sistema mayor basado en hardware. Ejemplo: control de ascensores.
     * Semi-embebido: entre orgánico y embebido. Presenta mayor procesamiento de transacciones. Ejemplo: monitorio de una red.
-    
+
 23. ¿Cuáles son los principales objetivos considerados en el desarrollo del modelo COCOMO 2.0? Explique diferencias con la versión original.
+
+    Los objetivos de COCOMO 2.0 son:
+
+    * Desarrollar modelos de costos y de estimación acordes a las prácticas actuales.
+    * Desarrollar bases de datos de costos y herramientas que soporten una mejora contínua del modelo.
+    * Proveer un framework analítico cuantitativo y un conjunto de herramientas y técnicas para evaluar los efectos de las mejoras en los costos de vida y en las planificaciones.
+
+    Las principales diferencias entre COCOMO y COCOMO 2.0 son:
+
+    * COCOMO: requiere software tamaño en KDSI como entrada, pero COCOMO 2.0 se basa en código KSLOC(lógico). La principal diferencia entre DSI y real es que una sola línea de código fuente puede tener varias líneas físicas.
+    * COCOMO 2.0: aborda las siguiente tres fases del ciclo de vida en espiral: desarrollo de aplicaciones, principios de diseño y arquitectura post. COCOMO proporciona las estimaciones puntuales del esfuerzo y la programación, pero COCOMO 2.0 proporciona rangos probables de estimaciones que representan unadesviación estándar alrededor de la estimación más probable.
+
 24. Explique qué es la economía de escala. De al menos dos ejemplos.
 
 ## Parte IV: Gestión de proyectos
