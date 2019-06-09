@@ -161,7 +161,7 @@
     5. Duración aceptable: dicho de otra manera, que la duración de la actividad sea admisible: que no se le asigne un mes(hay excepciones), pero tampoco 3 días.
     6. Independiente: dicho de otro modo, que una vez iniciada no dependa de otra actividad. El esfuerzo dedicado a una actividad debe ser contínuo.
 
-16. Explique qué es la duración de una actividad. Indique cuál es la diferencia con el esfuerzode trabajo.
+16. Explique qué es la duración de una actividad. Indique cuál es la diferencia con el esfuerzo de trabajo.
 17. ¿Cuáles son las causas de variación en la duración de una actividad?
 18. Mencione las distintas técnicaspara estimar esfuerzo.
 
