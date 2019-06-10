@@ -280,6 +280,12 @@
     La gestión de los beneficios consiste en obtener beneficios para sus clientes y para las partes interesadas.
 
 26. ¿Cuáles son las características principales de la gestión de los interesados?
+
+    Ayuda a asegurar que las partes interesadas:
+    * Estén comprometidas con los beneficios identificados y su realización.
+    * Estén fomentando la propiedad.
+    * Sean responsables de añadir valor a través del proceso de realización.
+
 27. Indicar cuáles son los objetivos de la gestión de los interesados y a qué preguntas responde.
 28. ¿De qué forma se representa la identificación de los interesados y sus intereses? Ejemplifique.
 29. Indique qué datos se incluyen al momento de crearuna matriz de impacto y qué aporta el análisis de los mismos.
