@@ -276,6 +276,9 @@
 ## Parte IV: Gestión de proyectos
 
 25. Explicar qué es la gestión de los beneficios y en qué consiste su enfoque.
+
+    La gestión de los beneficios consiste en obtener beneficios para sus clientes y para las partes interesadas.
+
 26. ¿Cuáles son las características principales de la gestión de los interesados?
 27. Indicar cuáles son los objetivos de la gestión de los interesados y a qué preguntas responde.
 28. ¿De qué forma se representa la identificación de los interesados y sus intereses? Ejemplifique.
