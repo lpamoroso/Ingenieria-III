@@ -277,7 +277,12 @@
 
 25. Explicar qué es la gestión de los beneficios y en qué consiste su enfoque.
 
-    La gestión de los beneficios consiste en obtener beneficios para sus clientes y para las partes interesadas.
+    La gestión de los beneficios consiste en obtener beneficios para sus clientes y para las partes interesadas. Su enfoque se divide en 5 partes:
+    1. Desarrollo de una estrategia de gestión de beneficios: es decir, definir cómo el programa se encargará de la gestión de los beneficios.
+    2. Perfiles de beneficios: esto es, identificar los beneficios en áreas como calidad de servicio(respuestas rápidas a las consultas de los ciudadanos, por ejemplo) o economía(si los beneficios contribuyen a reducir los costos de las agencias gubernamentales, por ejemplo).
+    3. Plan de realización de beneficios: en otras palabras, una vista completa de todos los perfiles de beneficios en forma de un cronograma que define cuándo se realizará cada uno.
+    4. Realización de beneficios: en otros términos, la entrega definitiva de los beneficios incrementales. A menudo, para implementar los beneficios en las organizaciones son necesarios cambios estructurales y/o de procesos, pero tales cambios son en pos de la inclusión de nuevas capasidades, productos y/o servicios.
+    5. Revisión de beneficios: dicho de otro modo, validar el valor de los beneficios esperados y realizados a los ojos de los stakeholders. La idea es evaluar el nivel de los objetivos alcanzados y asegurar la alineación de los beneficios con los objetivos del programa. Además, es posible apreciar la efectividad de cómo son gestionados los beneficios e identificar, junto a los stakeholders, nuevos posibles beneficios.
 
 26. ¿Cuáles son las características principales de la gestión de los interesados?
 
