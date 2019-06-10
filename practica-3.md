@@ -287,6 +287,13 @@
     * Sean responsables de añadir valor a través del proceso de realización.
 
 27. Indicar cuáles son los objetivos de la gestión de los interesados y a qué preguntas responde.
+
+    El principal objetivo es asegurar que los beneficios:
+    * Sean identificados.
+    * Estén definidos claramente.
+    * Estén vinculados a los resultados estratégicos.
+    * Sean específicos, medibles, realizables, realistas y limitados con el tiempo.
+
 28. ¿De qué forma se representa la identificación de los interesados y sus intereses? Ejemplifique.
 29. Indique qué datos se incluyen al momento de crearuna matriz de impacto y qué aporta el análisis de los mismos.
 30. ¿Qué datos tiene un plan de comunicación dentro de la gestión de los interesados? Mencione posibles canales de comunicación.
