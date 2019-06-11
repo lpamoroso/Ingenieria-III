@@ -157,6 +157,9 @@
     Es un conjunto de recursos que contienen toda la información que las organizaciones necesitan para adoptar un marco de gobernanza y control de TI. Contempla gobernanza de TI empresarial, gobernanza de TI, administración, control y auditoría.
 
 23. Explique la diferencia entre Gobernanza y Administración de TI.
+
+    La diferencia es que la gobernanza asegura que las necesidades, condiciones y opciones de las partes interesadas son evaluadas para determinar objetivos empresariales a alcanzar equilibrados y acordados. Establece la dirección a través de la priorización y la toma de decisiones supervisando el desempe;o y cumplimiento contra la direcci'on y objetivos acordados. La administraci'on planifica, construye, ejecuta y monitorea las actividades en consonancia con la direcci'on establecida por el cuerpo de gobierno para alcanzar los objetivos empresariales. Es algo así como una vez ejecutada la administración, se da la gobernanza. La gobernanza asegura y la administración planifica y contruye.
+
 24. ¿Cuáles son los principios de COBIT?
 25. Indicar de qué forma organiza COBIT los procesos de TI.
 26. Explicar cómo COBIT clasifica la administración de TI.
