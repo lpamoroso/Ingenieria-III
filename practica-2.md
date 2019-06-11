@@ -153,6 +153,9 @@
     Es un subconjunto de gobierno corporativo de las organizaciones que se centra en los sistemas de TI, su desempeño y los riesgos asociados. Trata la relación entre el enfoque empresarial y la gestión de TI. Además destaca la importancia de la gestión de TI y promueve que las decisiones estratégicas de TI sean tomadas por una junta corporativa. Su meta es que las inversiones en TI generen valor y reducir riesgo asociados con TI.
 
 22. Explique qué es COBIT y cuáles son sus elementos.
+
+    Es un conjunto de recursos que contienen toda la información que las organizaciones necesitan para adoptar un marco de gobernanza y control de TI. Contempla gobernanza de TI empresarial, gobernanza de TI, administración, control y auditoría.
+
 23. Explique la diferencia entre Gobernanza y Administración de TI.
 24. ¿Cuáles son los principios de COBIT?
 25. Indicar de qué forma organiza COBIT los procesos de TI.
