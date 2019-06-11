@@ -363,7 +363,34 @@
     Para este proyecto se busca formular una estrategia de gestión de los interesados con:
     
     1. Identificación de al menos tres grupos de interesados.
+
+        * Los empleados.
+        * La gerencia de la empresa de salud.
+        * El personal que se contratará para llevar a cabo las actividades.
+
     2. Creación del mapa de partes interesadas.
+
+        Stakeholders | Dirección estratégica | Financiera | Cambios operacionales | Interfaz con los clientes
+        :---:|:---:|:---:|:---:|:---:
+        Empleados | Mantener informado | No participa | Consulta activa | Mantener informado
+        Gerencia de la empresa de salud | Fuerte compromiso | Fuerte compromiso | Fuerte compromiso | Fuerte compromiso
+        Personal que se contratará para llevar a cabo las actividades | Mantiene interés | No participa | Mantiene interés | Mantener informado
+
     3. Creación de la matriz de impacto de las partes interesadas.
+
+        ![matriz_stakeholders](imgs/matriz_stakeholders.png)
+
     4. Elaboración de un plan de comunicación.
+
+        //preguntar
+
     5. Definición de los canales de comunicación.
+
+        * Workshops: talleres brindados por personal especializado a los empleados.
+        * Tablón de anuncios: tanto virtual(a través de una aplicación para los empleados) como físico, informando de las actividades disponibles el actual mes.
+        * Informes: redactados por el personal especializado a la gerencia indicando cuestiones cómo:
+            + Qué tan concurrido es el taller.
+            + Qué resultados ha generado.
+            + Sugerencias.
+            + Problemas.
+        * Anuncios: se harán mediante la aplicación movil.
