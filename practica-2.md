@@ -175,5 +175,13 @@
     * Separar las funciones principales.
 
 25. Indicar de qué forma organiza COBIT los procesos de TI.
+
+    Se organizan bajo la práctica de evaluar, dirigir y monitorear(EDM):
+    * EDM1: asegurar el marco de gobernanza, el establecimiento y el mantenimiento.
+    * EDM2: asegurar la entrega de beneficios.
+    * EDM3: asegurar la optimización de riesgos.
+    * EDM4: asegurar la optimización de recursos.
+    * EDM5: asegurar la transparencia de las partes interesadas.
+
 26. Explicar cómo COBIT clasifica la administración de TI.
 27. Justificar la importanciade aplicar COBIT enuna organización.
