@@ -325,8 +325,29 @@
     
     Para cada proyecto se pide:
     1. Clasificarlo y justificar dicha clasificación.
+
+        Para el proyecto 1, el tipo que más se le asemeja es el tipo D: es un proyecto que lleva menos de 3 meses de riesgo muy bajo que no debería dar mayores problemas. El costo tampoco es muy alto.  
+        En cambio, para el proyecto 2, hay mayores consideraciones, pero considero que es un proyecto de tipo C: es algo que se realiza de 3 a 9 meses y de riesgo y complejidad baja. Probablemente surjan algunos problemas.
+
     2. Identificar al menos 3 tareas que sería necesario ejecutar en cada proyecto -analizar si están conectadas y en caso afirmativo, explicar cómo.
+
+        Para el proyecto 1:
+        * Asesorarse para encontrar el mejor dispositivo movil conforme precio y calidad, es decir, encontrar uno adecuado a las necesidades del empleado.
+        * Comprar los dispositivos.
+
+        Para el proyecto 2:
+        * Elicitar los requerimientos para armar un documento de lo que se desea construir.
+        * Armar un diseño o prototipos del sistema y discutirlos con el cliente para llegar a un producto de calidad.
+        * Desarrollar el sistema y mantener informado al cliente.
+
+        Tareas que, a mi me parece, conectan el proyecto 1 y 2:
+        * Por ejemplo, si se desarrollara una aplicación movil que permitiera gestionar a los vendedores cuestiones relacionadas a los jornales debería tenerse en cuenta la naturaleza del sistema de jornales y qué tanto soporta el dispositivo movil.
+
     3. Explicar dos situaciones que puedan hacer fracasar el proyecto.
+
+        * Que se estime mal el presupuesto y no se esté dispuesto a ampliarlo.
+        * Si se dispone de solamente una persona altamente capacitada y esa persona se va y no es capaz de reemplazarla.
+
 32. Elegir una organización y describir a qué se dedica(cuál es su misión). Formular un objetivo estratégico para el cual se necesite la ejecución de un programa y luego:
     1. Identificar un programa para la implementación del objetivo estratégico que incluya al menos tres proyectos.
     2. Explicar por qué los proyectos forman parte del programa.
