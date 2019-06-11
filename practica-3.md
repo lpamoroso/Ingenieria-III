@@ -321,10 +321,12 @@
 
 31. Una empresa vende seguros para bienes inmuebles. Cuenta con 10 empleados de planta y 20 vendedores contratados. En base a requerimientos de los directivos, la Gerencia de Sistemas definió la ejecución de dos proyectos para el período 2017-2018:
     1. Comprar dispositivos móviles para ayudar a los 20 vendedores en sus tareas diarias.
-    2. Proveer un sistema de sueldos y jornales. Para cada proyecto se pide:
-        1. Clasificarlo y justificar dicha clasificación.
-        2. Identificar al menos 3 tareas que sería necesario ejecutar en cada proyecto –analizar si están conectadas y en caso afirmativo, explicar cómo.
-        3. Explicar dos situaciones que puedan hacer fracasar el proyecto.
+    2. Proveer un sistema de sueldos y jornales.
+    
+    Para cada proyecto se pide:
+    1. Clasificarlo y justificar dicha clasificación.
+    2. Identificar al menos 3 tareas que sería necesario ejecutar en cada proyecto -analizar si están conectadas y en caso afirmativo, explicar cómo.
+    3. Explicar dos situaciones que puedan hacer fracasar el proyecto.
 32. Elegir una organización y describir a qué se dedica(cuál es su misión). Formular un objetivo estratégico para el cual se necesite la ejecución de un programa y luego:
     1. Identificar un programa para la implementación del objetivo estratégico que incluya al menos tres proyectos.
     2. Explicar por qué los proyectos forman parte del programa.
