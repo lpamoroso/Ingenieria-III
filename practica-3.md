@@ -304,6 +304,9 @@
     La principal forma es la comunicación. La comunicación es un factor crítico de éxito para cualquer proceso de transformación. La idea es concientizar a los stakeholders sobre los beneficios y el impacto y de esa manera obtener el compromiso del personal de las organizaciones con los cambios a ser introducidos. Es importante, además, mantener a todo el personal de las organizaciones informado sobre los progresos realizados antes, durante y después de la ejecución y entrega de resultados. Es de crítica importancia garantizar que las comunicaciones sean doble vía, alentando activamente a los stakeholders a proporcionar un feedback y asegurarse de que estén informados acerca del uso del mismo.
 
 29. Indique qué datos se incluyen al momento de crear una matriz de impacto y qué aporta el análisis de los mismos.
+
+//pedir explicación
+
 30. ¿Qué datos tiene un plan de comunicación dentro de la gestión de los interesados? Mencione posibles canales de comunicación.
 
 ## Parte V: Ejercicios
