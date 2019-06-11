@@ -176,12 +176,27 @@
 
 25. Indicar de qué forma organiza COBIT los procesos de TI.
 
-    Se organizan bajo la práctica de evaluar, dirigir y monitorear(EDM):
+    Si se organizan bajo la práctica de evaluar, dirigir y monitorear(EDM):
     * EDM1: asegurar el marco de gobernanza, el establecimiento y el mantenimiento.
     * EDM2: asegurar la entrega de beneficios.
     * EDM3: asegurar la optimización de riesgos.
     * EDM4: asegurar la optimización de recursos.
     * EDM5: asegurar la transparencia de las partes interesadas.
+
+    Si se organizan bajo la práctica de alinear, planear y organizar(APO):
+    * APO01: gestionar el marco de administración de TI.
+    * APO02: gestionar estrategias.
+    * APO03: gestionar la arquitectura empresarial.
+    * APO04: gestionar la innovación.
+    * APO05: gestionar el portfolio.
+    * APO06: gestionar presupuesto y costos.
+    * APO07: gestionar los recursos humanos.
+    * APO08: gestionar las relaciones.
+    * APO09: gestionar los acuerdos de servicio.
+    * APO10: gestionar proveedores.
+    * APO11: gestionar la calidad.
+    * APO12: gestionar los riesgos.
+    * APO13: gestionar la seguridad.
 
 26. Explicar cómo COBIT clasifica la administración de TI.
 27. Justificar la importanciade aplicar COBIT enuna organización.
