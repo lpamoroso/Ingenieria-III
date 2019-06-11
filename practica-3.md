@@ -309,6 +309,14 @@
 
 30. ¿Qué datos tiene un plan de comunicación dentro de la gestión de los interesados? Mencione posibles canales de comunicación.
 
+    Un plan de comunicación describe:
+    * Qué se comunicará y la autoridad requerida para la comunicación.
+    * Cómo se comunicará.
+    * Quién comunicará.
+    * Cuándo se comunicará.
+
+    Ejemplos de canales de comunicación: seminarios y workshops, prensa y medios, boletines, instrucciones, etc.
+
 ## Parte V: Ejercicios
 
 31. Una empresa vende seguros para bienes inmuebles. Cuenta con 10 empleados de planta y 20 vendedores contratados. En base a requerimientos de los directivos, la Gerencia de Sistemas definió la ejecución de dos proyectos para el período 2017-2018:
