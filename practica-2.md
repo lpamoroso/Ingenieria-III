@@ -154,7 +154,12 @@
 
 22. Explique qué es COBIT y cuáles son sus elementos.
 
-    Es un conjunto de recursos que contienen toda la información que las organizaciones necesitan para adoptar un marco de gobernanza y control de TI. Contempla gobernanza de TI empresarial, gobernanza de TI, administración, control y auditoría.
+    Es un conjunto de recursos que contienen toda la información que las organizaciones necesitan para adoptar un marco de gobernanza y control de TI. Contempla gobernanza de TI empresarial, gobernanza de TI, administración, control y auditoría. Sus elementos son:
+    1. Procesos de TI y dominios
+    2. Objetivos de control.
+    3. Prácticas de control.
+    4. Guías de auditoría.
+    5. Guías de administración.
 
 23. Explique la diferencia entre Gobernanza y Administración de TI.
 
