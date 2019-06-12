@@ -233,4 +233,4 @@
 
     //preguntar
 
-27. Justificar la importanciade aplicar COBIT enuna organización.
+27. Justificar la importancia de aplicar COBIT en una organización.
