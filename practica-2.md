@@ -224,4 +224,13 @@
     * MEA03: monitorear y evaluar el cumplimiento de los requisitos externos.
 
 26. Explicar cómo COBIT clasifica la administración de TI.
+
+    Las clasifica según:
+    * Modelos de madurez.
+    * Factores de éxito crítico.
+    * Indicadores claves de metas.
+    * Indicadores claves de rendimiento.
+
+    //preguntar
+
 27. Justificar la importanciade aplicar COBIT enuna organización.
