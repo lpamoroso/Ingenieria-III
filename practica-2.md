@@ -198,5 +198,30 @@
     * APO12: gestionar los riesgos.
     * APO13: gestionar la seguridad.
 
+    Si se organizan bajo la práctica de construir, adquirir e implementar(BAI):
+    * BAI01: gestionar programas y proyectos.
+    * BAI02: gestionar la definición de requerimientos.
+    * BAI03: gestionar la identificación y contrucción de soluciones.
+    * BAI04: gestionar la disponibilidad y capacidad.
+    * BAI05: gestionar la habilitación del cambio organizacional.
+    * BAI06: gestionar cambios.
+    * BAI07: gestionar el cambio de aceptación.
+    * BAI08: gestionar el conocimiento.
+    * BAI09: gestionar activos.
+    * BAI10: gestionar la configuración.
+
+    Si se organizan bajo la práctica de entrega, servicio y soporte(DSS):
+    * DSS01: gestionar operaciones.
+    * DSS02: gestionar peticiones e incidentes de servicio.
+    * DSS03: gestionar problemas.
+    * DSS04: gestionar continuidad.
+    * DSS05: gestionar servicios de seguridad.
+    * DSS06: gestionar procesos de control del negocio.
+
+    Si se organizan bajo la práctica de monitorear y evaluar(MEA):
+    * MEA01: monitorear y evaluar el desempeño y conformidad.
+    * MEA02: monitorear y evaluar el sistema de controles internos.
+    * MEA03: monitorear y evaluar el cumplimiento de los requisitos externos.
+
 26. Explicar cómo COBIT clasifica la administración de TI.
 27. Justificar la importanciade aplicar COBIT enuna organización.
