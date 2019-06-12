@@ -234,3 +234,8 @@
     //preguntar
 
 27. Justificar la importancia de aplicar COBIT en una organización.
+
+    Se ha aplicado COBIT en el sector público y estos han sido algunos de los resultados:
+    * En Dubai se ha aplicado ya que provee objetivos de control y mejora la gobernanza de TI.
+    * En Bahrein se ha aplicado ya que proporciona el marco de trabajo más detallado y globalmente respetado para implementar la gobernanza de TI.
+    * En Australia ha proporcionado un marco de trabajo muy detallado para la implementación de controles, auditoría y estrategias de testeo.
