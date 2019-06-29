@@ -87,6 +87,19 @@
     Si bien la calidad es un concepto vago y subjetivo, a priori puede definirse como la capacidad de un producto de software para servir satisfactoriamente a los propósitos del usuario mediante su utilización, conformando completamente los requisitos explícitos e implícitos del cliente, manteniendo la ausencia de defectos e imperfecciones.
 
 6. Explique cuáles son los pasos a seguir para realizar una evaluación siguiendo el proceso de evaluación definido en la norma ISO/IEC 14598.
+
+    * ISO/IEC 14598-1, este marco de trabajo provee un panorama general de las otras 5 partes y relaciona la evaluación del producto software y el modelo de calidad definido en la norma ISO 9126.
+
+    * ISO/IEC 14598-2, planificacion y gestion, contiene los requerimiento y las guías para las funciones de soporte tales como el planeamiento y gestión para la evaluación del producto del software. Esta norma ya fue retirada (withdrawn) por la ISO/IEC.
+
+    * ISO/IEC 14598-3, trata sobre el proceso para desarrolladores, esta parte provee los requerimientos y las recomendaciones para la evaluación del producto del software cuando la evaluación es conducida en paralelo con el desarrollo y se lleva a cabo por el desarrollador. Esta norma ya fue retirada (withdrawn) por la ISO/IEC.
+
+    * ISO/IEC 14598-4, esta parte trata sobre el proceso para compradores que provee los requerimientos y las recomendaciones de evaluación del producto de software comercial personalizado o modificación de un producto existente realizada para garantizar a los compradores si este cumple los requisitos especificados. Esta norma ya fue retirada (withdrawn) por la ISO/IEC.
+
+    * ISO/IEC 14598-5, es sobre el proceso de evaluadores que son orientaciones o recomendaciones para la aplicación práctica de la evaluación del producto del software cuando las diversas partes intentan comprender, aceptar y confiar los resultados de la evaluación.
+
+    * ISO/IEC 14598-6, por último la parte 6 trata de la documentación de los módulos de evaluación, provee las guías para la documentación del mismo, estos módulos representan la especificación del modelo de calidad de las correspondientes métricas internas y externas que serán aplicadas a una evaluación en particular incluye métodos y técnicas de evaluación más las mediciones actuales resultantes de su aplicación.
+
 7. Describa el Modelo de Calidad de la ISO/IEC 9126.
 
     * Funcionalidad
