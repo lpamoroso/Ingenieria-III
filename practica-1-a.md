@@ -104,6 +104,9 @@
     Si bien existen niveles de puntuación generales definidos por ISO, que suelen tomarse en cuenta, lo cierto es que no existe una escala general, dado que la calidad está asociada a necesidades dadas, las cuales varían de una evaluación a otra, por lo que debe establecerse una escala para cada evaluación. Un ejemplo podría ser inaceptable, mínimamente aceptable, rango al que se apunta y con requerimientos excedidos, donde inaceptable se considera como insatisfactorio y el resto de las escalas como satisfactorio.
 
 11. Explique de qué forma se deben combinar los niveles de las métricas para establecer los niveles de las características y de evaluación.
+
+    La forma en que se combinan es estableciendo cuál de los niveles de puntuación se considera satisfactorio o no, y definiendo qué características debe o debería proveer el software para considerarlo como tal o cual nivel. De esta manera, se puede llegar a medir qué se considera peor caso, a qué es a lo que se apunta y en dónde, en ese intervalo, el proyecto se encuentra.
+
 12. Explique cómo se conforma la familia ISO/IEC 25000 (SQuaRE).
 13. ¿Qué norma de la familia ISO/IEC 25000 reemplaza a la ISO/IEC 9126-1? Explique las diferencias.
 14. ¿Qué norma de la familia ISO/IEC 25000 reemplaza a la ISO/IEC 14598? Explique las diferencias.
