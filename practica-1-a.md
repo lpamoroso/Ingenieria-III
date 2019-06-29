@@ -10,7 +10,7 @@
 3. Explique con sus palabras qué es la Calidad del software y cómo se divide.
 
     Es el valor que los usuarios o clientes dan a un producto de software, según este satisfaga sus necesidades. Este producto a su vez es el resultado de un proceso de desarrollo, el cual condiciona la calidad del software. Se divide en:
-    - Calidad del producto obtenido: en este caso, se evalua la calidad interna, externa y de uso.
+    - Calidad del producto obtenido.
     - Calidad del proceso de desarrollo: es decir, que el proceso produzca los resultados esperados en base al producto que se desea lograr, siendo los procesos, basados en una correcta definición y que estos sean mejorados en función de los objetivos de negocio.
 
 4. ¿Cómo se diferencian los términos Norma y Estándar? Explique.
@@ -20,6 +20,9 @@
 ## Parte II: Calidad de Producto
 
 5. Describa el concepto de Calidad de Producto de software.
+
+    Si bien la calidad es un concepto vago y subjetivo, a priori puede definirse como la capacidad de un producto de software para servir satisfactoriamente a los propósitos del usuario mediante su utilización, conformando completamente los requisitos explícitos e implícitos del cliente, manteniendo la ausencia de defectos e imperfecciones.
+
 6. Explique cuáles son los pasos a seguir para realizar una evaluación siguiendo el proceso de evaluación definido en la norma ISO/IEC 14598.
 7. Describa el Modelo de Calidad de la ISO/IEC 9126.
 8. Enumere las características que presenta la ISO/IEC 9126-1.
