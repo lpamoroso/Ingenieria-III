@@ -134,6 +134,25 @@ Diferencias entre el estándar SQuaRE y la ISO/IEC 9126 y 14598:
 
 15. Describa el concepto de Calidad de Datos IS0/IEC 25012.
 
-    El modelo de calidad de datos representa los cimientos sobre los cuales se construye un sistema para la evaluación de un producto de datos. En un modelo de calidad de datos se establecen las características de ese tipo que se deben tener en cuenta a la hora de evaluar las propiedades de un producto de datos determinado.
+    La norma entiende por calidad de datos a la capacidad de las características de los datos de satisfacer necesidades explícitas e implícitas bajo determinadas condiciones de uso.
 
 16. Defina la clasificación propuesta por el modelo.
+
+* Inherente: Capacidad de las características de los datos de tener el potencial intrínseco para satisfacer las necesidades explícitas e implícitas.
+    + Exactitud: Los datos representan de forma correcta el verdadero valor
+    + Completitud: Los datos tiene valores para todos los atributos esperados
+    + Consistencia: Los datos están libre de contradicciones y están coherentes con el resto de los datos
+    + Credibilidad: Los usuarios consideran que los datos son creíbles
+    + Actualidad: Los datos tienen un tiempo adecuado
+* Dependiente del sistema: Capacidad del sistema informático de alcanzar y preservar la calidad de los datos cuando los datos se utilizan en determinadas condiciones
+    + Disponibilidad: Los datos pueden ser recuperados por los usuarios autorizados
+    + Portabilidad: Los datos pueden ser instalados, reemplazados o movidos de un sistema a otro
+    + Recuperabilidad: Los datos se mantienen y preservan un nivel especificado de operaciones y de calidad, incluso en caso de fallo
+* Inherentes y dependientes
+    + Accesibilidad: Se puede acceder a los datos, en especial por personas con discapacidades
+    + Cumplimiento: Los datos se adhieren a estándares convenciones o normas
+    + Confidencialidad: Los datos son accesibles e interpretados por los usuarios autorizados
+    + Eficiencia: Los pueden ser procesados y proporcionan el nivel de rendimiento esperado
+    + Precisión: Los datos son exactos
+    + Trazabilidad: Los datos proporcionan la información necesaria para poder auditar los accesos y las modificaciones que se les han realizado
+    + Compresibilidad: Los datos pueden ser leído e interpretados por los usuarios
