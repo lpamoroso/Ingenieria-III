@@ -26,23 +26,53 @@
 6. Explique cuáles son los pasos a seguir para realizar una evaluación siguiendo el proceso de evaluación definido en la norma ISO/IEC 14598.
 7. Describa el Modelo de Calidad de la ISO/IEC 9126.
 
-    Atributos de la calidad interna/externa:
+    * Funcionalidad
 
-    * Funcionalidad: Capacidad del producto del software para proveer funciones que cumplan con necesidades específicas o implícitas, cuando es utilizado bajo condiciones específicas.
-    * Fiabilidad: Capacidad del producto de software para mantener un nivel especificado de rendimiento cuando es utilizado bajo condiciones especificadas.
-    * Usabilidad: Capacidad del producto de software para ser atractivo, entendido, aprendido y utilizado por el usuario bajo condiciones específicas.
-    * Eficiencia: Capacidad del producto de software para proveer un rendimiento apropiado, relativo a la cantidad de recursos utilizados, bajo condiciones específicas.
-    * Mantenibilidad: Capacidad del producto para ser modificado.
-    * Portabilidad: Capacidad del producto de software para ser transferido de un ambiente a otro.
+        + Aplicabilidad: la capacidad del software para proveer un conjunto apropiado de funciones para las tareas y objetivos especificados por el usuario.
+        + Precisión: capacidad del software de proveer los resultados correctos o convenidos con el grado de precisión necesarios.
+        + Interoperabilidad: capacidad del software para interactuar con uno o mas sistemas especificados.
+        + Seguridad: capacidad del software para proteger la información y los datos de modo que las personas o los sistemas no autorizados no puedan leerlos o modificarlos y a las personas o sistemas autorizados no se les denegará el acceso.
+        + Conformidad de funcionalidad: capacidad de adherir a estándares, convenciones o regulaciones legales y prescripciones similares referente a la funcionalidad.
 
-    Atributos de la calidad en uso:
+    * Fiabilidad
 
-    * Efectividad: Capacidad del producto software para permitir a los usuarios alcanzar objetivos especificados con exactitud y completitud, en un contexto de uso especificado.
-    * Productividad: Capacidad del producto software para permitir a los usuarios gastar una cantidad adecuada de recursos con relación a la efectividad alcanzada, en un contexto de uso especificado.
-    * Seguridad física: Capacidad del producto software para alcanzar niveles aceptables del riesgo de hacer daño a personas, al negocio, al software, a las propiedades o al medio ambiente en un contexto de uso especificado.
-    * Satisfacción: Capacidad del producto software para satisfacer a los usuarios en un contexto de uso especificado.
+        + Madurez: capacidad del software para evitar fallas como resultado de errores en el software.
+        + Recuperabilidad: capacidad del software de reestablecer un nivel de rendimiento y recuperar datos directamente afectados en el caso de una falla.
+        + Tolerancia a fallas: capacidad del software de mantener un nivel especificado de rendimiento en casos de fallas del software.
+        + Conformidad de fiabilidad: capacidad del software para adherirse a las normas, convenciones o regulaciones relativas a la fiabilidad.
+
+    * Usabilidad
+
+        + Comprensibilidad: capacidad del software para permitir al usuario entender si el software es aplicable, y cómo puede ser utilizado para las tareas y las condiciones particulares de la aplicación.
+        + Capacidad de aprendizaje: la capacidad del software para permitir al usuario aprender su aplicación.
+        + Operabilidad: capacidad del software para permitir al usuario operarlo y controlarlo.
+        + Atractividad: capacidad del software de ser atractivo al usuario.
+        + Conformidad de usabilidad: capacidad del producto software para adherirse a las normas, convenciones, guías de estilo o regulaciones relacionadas a su usabilidad.
+
+    * Eficiencia
+
+        + Comportamiento en el tiempo: capacidad del software para proveer tiempos apropiados de respuesta y procesamiento, y ratios de rendimiento cuando realiza su función bajo las condiciones establecidas.
+        + Utilización de recursos: capacidad del producto software para utilizar apropiadas cantidades y tipos de recursos cuando éste funciona bajo las condiciones establecidas.
+        + Conformidad de eficiencia: capacidad del producto software para adherirse a normas o convenciones relacionadas a la eficiencia.
+
+    * Facilidad de Mantenimiento
+
+        + Analizabilidad: capacidad del software para ser diagnosticado por deficiencias o causas de fallas en el software o la identificación de las partes a ser modificadas.
+        + Cambiabilidad: capacidad del software para permitir que una determinada modificación sea implementada.
+        + Estabilidad: capacidad del software para evitar efectos inesperados debido a modificaciones del software.
+        + Testeabilidad: capacidad del software para permitir que las modificaciones puedan ser validadas.
+        + Conformidad de facilidad de mantenimiento: capacidad del software para adherirse a estándares o convenciones relativas a la facilidad de mantenimiento.
+
+    * Portabilidad
+
+        + Adaptabilidad: capacidad del software para ser adaptado a diferentes entornos definidos sin aplicar acciones o medios diferentes de los previstos para el propósito del software considerado.
+        + Instalabilidad: capacidad del software para ser instalado en un entorno definido.
+        + Co-existencia: capacidad del software para co-existir con otro producto software independiente dentro de un mismo entorno compartiendo recursos comunes.
+        + Reemplazabilidad: capacidad del software para ser utilizado en lugar de otro producto software, para el mismo propósito y en el mismo entorno.
+        + Conformidad de portabilidad: capacidad del software para adherirse a estándares o convenciones relacionados a la portabilidad.
 
 8. Enumere las características que presenta la ISO/IEC 9126-1.
+
 9. Las métricas de la ISO/IEC 9126-2 están definidas en forma de tabla. Explique cuáles son los componentes de esta tabla y qué criterios brinda la norma para la creación de nuevas métricas.
 10. Mencione cuáles son los niveles de puntuación de las métricas.
 11. Explique de qué forma se deben combinar los niveles de las métricas para establecer los niveles de las características y de evaluación.
