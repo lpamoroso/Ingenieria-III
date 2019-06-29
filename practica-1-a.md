@@ -133,4 +133,7 @@ Diferencias entre el estándar SQuaRE y la ISO/IEC 9126 y 14598:
 ## Parte III: Calidad de Datos
 
 15. Describa el concepto de Calidad de Datos IS0/IEC 25012.
+
+    El modelo de calidad de datos representa los cimientos sobre los cuales se construye un sistema para la evaluación de un producto de datos. En un modelo de calidad de datos se establecen las características de ese tipo que se deben tener en cuenta a la hora de evaluar las propiedades de un producto de datos determinado.
+
 16. Defina la clasificación propuesta por el modelo.
