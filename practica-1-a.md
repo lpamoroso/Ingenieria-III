@@ -73,6 +73,20 @@
 
 8. Enumere las características que presenta la ISO/IEC 9126-1.
 
+    Atributos de la calidad interna/externa:
+    * Funcionalidad.
+    * Fiabilidad.
+    * Facilidad de uso.
+    * Eficiencia.
+    * Mantenibilidad.
+    * Portabilidad.
+
+    Atributos de la calidad de uso:
+    * Efectividad.
+    * Productividad.
+    * Seguridad de acceso.
+    * Satisfacción.
+
 9. Las métricas de la ISO/IEC 9126-2 están definidas en forma de tabla. Explique cuáles son los componentes de esta tabla y qué criterios brinda la norma para la creación de nuevas métricas.
 10. Mencione cuáles son los niveles de puntuación de las métricas.
 11. Explique de qué forma se deben combinar los niveles de las métricas para establecer los niveles de las características y de evaluación.
