@@ -100,6 +100,9 @@
     //qué criterios brinda la norma para la creación de nuevas métricas
 
 10. Mencione cuáles son los niveles de puntuación de las métricas.
+
+    Si bien existen niveles de puntuación generales definidos por ISO, que suelen tomarse en cuenta, lo cierto es que no existe una escala general, dado que la calidad está asociada a necesidades dadas, las cuales varían de una evaluación a otra, por lo que debe establecerse una escala para cada evaluación. Un ejemplo podría ser inaceptable, mínimamente aceptable, rango al que se apunta y con requerimientos excedidos, donde inaceptable se considera como insatisfactorio y el resto de las escalas como satisfactorio.
+
 11. Explique de qué forma se deben combinar los niveles de las métricas para establecer los niveles de las características y de evaluación.
 12. Explique cómo se conforma la familia ISO/IEC 25000 (SQuaRE).
 13. ¿Qué norma de la familia ISO/IEC 25000 reemplaza a la ISO/IEC 9126-1? Explique las diferencias.
