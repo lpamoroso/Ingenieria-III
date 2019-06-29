@@ -88,6 +88,17 @@
     * Satisfacción.
 
 9. Las métricas de la ISO/IEC 9126-2 están definidas en forma de tabla. Explique cuáles son los componentes de esta tabla y qué criterios brinda la norma para la creación de nuevas métricas.
+
+    * Nombre de métrica: las métricas correspondiente en la tabla de las métricas interna y externa tienen nombres similares.
+    * Propósito de la métrica: están expresados como una pregunta a ser respondida por la aplicación de la métrica.
+    * Método de aplicación: provee un contorno de la aplicación.
+    * Medición, fórmula y cálculos de elementos de datos: provee la fórmula de medida y explica el significado de los elementos de dato usados.
+    * Interpretación del valor medido: provee el rango y los valores preferidos.
+    * Tipo de escala métrica: tipo de escala usada por la métrica. Los tipos de escalas usadas son; escala nominal, escala ordinal, escala de intervalo, escala de proporción y escala absoluta.
+    * Tipo de Medida: los tipos usados son; tipo de tamaño(tamaño de la función o tamaño de la fuente, por ejemplo), tipo del tiempo(tiempo transcurrido o tiempo de usuario, por ejemplo) o tipo de cuenta(número de cambios o número de fallos, por ejemplo).
+
+    //qué criterios brinda la norma para la creación de nuevas métricas
+
 10. Mencione cuáles son los niveles de puntuación de las métricas.
 11. Explique de qué forma se deben combinar los niveles de las métricas para establecer los niveles de las características y de evaluación.
 12. Explique cómo se conforma la familia ISO/IEC 25000 (SQuaRE).
