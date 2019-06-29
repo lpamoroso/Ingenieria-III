@@ -15,6 +15,8 @@
 
 4. ¿Cómo se diferencian los términos Norma y Estándar? Explique.
 
+    La diferencia es que se denomina norma a una regla que se debe seguir o a que se deben ajustar las conductas, tareas o actividades. La norma es un término fuerte, define las pautas a seguir. Un estándar es un modelo, patrón o referencia a tomar. Más que una regla, es una sugerencia.
+
 ## Parte II: Calidad de Producto
 
 5. Describa el concepto de Calidad de Producto de software.
