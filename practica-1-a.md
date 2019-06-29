@@ -25,6 +25,24 @@
 
 6. Explique cuáles son los pasos a seguir para realizar una evaluación siguiendo el proceso de evaluación definido en la norma ISO/IEC 14598.
 7. Describa el Modelo de Calidad de la ISO/IEC 9126.
+
+    Atributos de la calidad interna/externa:
+
+    * Funcionalidad: Capacidad del producto del software para proveer funciones que cumplan con necesidades específicas o implícitas, cuando es utilizado bajo condiciones específicas.
+    * Fiabilidad: Capacidad del producto de software para mantener un nivel especificado de rendimiento cuando es utilizado bajo condiciones especificadas.
+    * Usabilidad: Capacidad del producto de software para ser atractivo, entendido, aprendido y utilizado por el usuario bajo condiciones específicas.
+    * Eficiencia: Capacidad del producto de software para proveer un rendimiento apropiado, relativo a la cantidad de recursos utilizados, bajo condiciones específicas.
+    * Mantenibilidad: Capacidad del producto para ser modificado.
+    * Portabilidad: Capacidad del producto de software para ser transferido de un ambiente a otro.
+
+    Atributos de la calidad en uso:
+    
+    * Efectividad: Capacidad del producto software para permitir a los usuarios alcanzar objetivos especificados con exactitud y completitud, en un contexto de uso especificado.
+    * Productividad: Capacidad del producto software para permitir a los usuarios gastar una cantidad adecuada de recursos con relación a la efectividad alcanzada, en un contexto de uso especificado.
+    * Seguridad física: Capacidad del producto software para alcanzar niveles aceptables del riesgo de hacer daño a personas, al negocio, al software, a las propiedades o al medio ambiente en un contexto de uso especificado.
+    * Satisfacción: Capacidad del producto software para satisfacer a los usuarios en un contexto de uso especificado.
+
+
 8. Enumere las características que presenta la ISO/IEC 9126-1.
 9. Las métricas de la ISO/IEC 9126-2 están definidas en forma de tabla. Explique cuáles son los componentes de esta tabla y qué criterios brinda la norma para la creación de nuevas métricas.
 10. Mencione cuáles son los niveles de puntuación de las métricas.
