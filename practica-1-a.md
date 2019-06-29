@@ -108,8 +108,27 @@
     La forma en que se combinan es estableciendo cuál de los niveles de puntuación se considera satisfactorio o no, y definiendo qué características debe o debería proveer el software para considerarlo como tal o cual nivel. De esta manera, se puede llegar a medir qué se considera peor caso, a qué es a lo que se apunta y en dónde, en ese intervalo, el proyecto se encuentra.
 
 12. Explique cómo se conforma la familia ISO/IEC 25000 (SQuaRE).
-13. ¿Qué norma de la familia ISO/IEC 25000 reemplaza a la ISO/IEC 9126-1? Explique las diferencias.
-14. ¿Qué norma de la familia ISO/IEC 25000 reemplaza a la ISO/IEC 14598? Explique las diferencias.
+
+    Se conforma de 4 partes:
+    * División para el modelo de calidad.
+    * División para la medición de calidad.
+    * División para los requisitos de calidad.
+    * División para la evaluación de calidad. 
+
+13. ¿Qué norma de la familia ISO/IEC 25000 reemplaza a la ISO/IEC 9126-1?
+
+    ISO/IEC 2501n.
+
+14. ¿Qué norma de la familia ISO/IEC 25000 reemplaza a la ISO/IEC 14598?
+    ISO/IEC 2502n y 2504n.
+
+Diferencias entre el estándar SQuaRE y la ISO/IEC 9126 y 14598:
++ Introducción a un nuevo modelo de referencia general.
++ Introducción de guías dedicadas y detalladas para cada división.
++ Introducción de elementos de medida de calidad dentro de la división de medida de calidad.
++ Introducción de la división de requisitos de calidad.
++ Incorporación y revisión de los procesos de evaluación.
++ Introducción de guías para uso práctico en forma de ejemplos.
 
 ## Parte III: Calidad de Datos
 
