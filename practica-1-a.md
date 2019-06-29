@@ -7,6 +7,69 @@
     La calidad puede definirse como el grado de satisfacción producida o percibida por un elemento (tangible o intangible) a través de distintas características que lo definen, componen o los efectos que este produce mediante su uso u obtención.
 
 2. Cada uno de los denominados gurús(o padres) de la calidad han creado o instaurado algún programa, término o proceso que los ha colocado en ese lugar. Investigue y explique con sus palabras el aporte realizado por cada uno de los gurús mencionados en la teoría.
+
+    * Walter Shewhart: aportó el ciclo de Shewhart(también llamado ciclo de Deming porque fue éste último quién lo difundió). Este procedimiento busca dos objetivos: la mejora de cualquier proceso, y  el descubrimiento de una causa especial que haya sido detectada por una señal estadística. También se lo conoce como Ciclo PDCA(_plan, do, check, act_).
+    * Edward Deming: se lo conoce por los 14 puntos para la administración, la divulgación del ciclo PDCA y las 7 enfermedades mortales.
+        Los 14 puntos:
+        1. Crear constancia en la mejora de productos y servicios, con el objetivo de ser competitivo y mantenerse en el negocio, además proporcionar puestos de trabajo.
+        2. Adoptar una nueva filosofía de cooperación en la cual todos se benefician, y ponerla en práctica enseñándola a los empleados, clientes y proveedores.
+        3. Desistir de la dependencia en la inspección en masa para lograr calidad. En lugar de esto, mejorar el proceso e incluir calidad en el producto desde el comienzo.
+        4. Terminar con la práctica de comprar a los más bajos precios. En lugar de esto, minimizar el costo total en el largo plazo. Buscar tener un solo proveedor para cada ítem, basándose en una relación de largo plazo de lealtad y confianza.
+        5. Mejorar constantemente y por siempre los sistemas de producción, servicio y planificación de cualquier actividad. Esto va a mejorar la calidad y la productividad, bajando los costos constantemente.
+        6. Establecer entrenamiento dentro del trabajo (capacitación).
+        7. Establecer líderes, reconociendo sus diferentes habilidades, capacidades y aspiraciones. El objetivo del supervisor debería ser ayudar a la gente, máquinas y dispositivos a realizar su trabajo.
+        8. Eliminar el miedo y construir confianza, de esta manera todos podrán trabajar más eficientemente.
+        9. Borrar las barreras entre los departamentos. Abolir la competición y construir un sistema de cooperación basado en el mutuo beneficio que abarque toda la organización.
+        10. Eliminar eslóganes, exhortaciones y metas pidiendo cero defectos o nuevos niveles de productividad. Estas exhortaciones solo crean relaciones de rivalidad, la principal causa de la baja calidad y la baja productividad reside en el sistema y este va más allá del poder de la fuerza de trabajo.
+        11. Eliminar cuotas numéricas y la gestión por objetivos.
+        12. Remover barreras para apreciar la mano de obra y los elementos que privan a la gente de la alegría en su trabajo. Esto incluye eliminar las evaluaciones anuales o el sistema de méritos que da rangos a la gente y crean competición y conflictos.
+        13. Instituir un programa vigoroso de educación y auto mejora.
+        14. Poner a todos en la compañía a trabajar para llevar a cabo la transformación. La transformación es trabajo de todos.
+
+        Las 7 enfermedades mortales:
+        1. Falta de constancia en los propósitos. Las empresas se suelen centrar en los dividendos trimestrales en lugar de la mejora continua de los procesos, productos y servicios.
+        2. Énfasis en las ganancias a corto plazo y los dividendos inmediatos. Cuando se centran en los beneficios a corto plazo se lleva al fracaso de la constancia en el logro del propósito y crecimiento a largo plazo.
+        3. Evaluación por rendimiento, clasificación de méritos o revisión anual de resultados. La evaluación del comportamiento a través de la calificación por méritos está centrada en el producto final y no sobre el liderazgo para ayudar a la gente. Se destruye el trabajo en equipo y aumenta la rivalidad.
+        4. Movilidad de los ejecutivos. El cambio de la dirección hacia otras compañías hace que los directivos no se comprometan con la calidad y productividad. Esta movilidad lleva a crear una mala supervisión y gestión.
+        5. Gerencia de la compañía basándose solamente en las cifras visibles. Compañías que se centran únicamente en las cifras o datos numéricos, dejando de lado otros aspectos importantes a tener en cuenta.
+        6. Costos médicos excesivos. Costes adicionales que ha de enfrentar las compañías por aspectos relacionados con la salud y atención, como los días de baja. El incremento de enfermedades y accidentes pueden desembocar en mayores gastos para las organizaciones.
+        7. Costo excesivo de garantías. Costes excesivos de responsabilidad, hinchados por los abogados que trabajan por minuta.
+    * Joseph Juran: Propuso la trilogía de Juran que consiste en:
+        + Crear conciencia de la necesidad y oportunidad de mejorar
+        + Establezca metas para la mejora
+        + Crear planes para alcanzar los objetivos
+        + Proporcionar capacitación
+        + Llevar a cabo proyectos para resolver problemas
+        + Informe sobre el progreso
+        + Dar un reconocimiento para el éxito
+        + Comunicar los resultados
+        + Llevar la cuenta
+        + Mantener el impulso de mejora
+    * Kaoru Ishukawa: es el introdujo el circulo de calidad y diagrama de causa y efecto. El circulo de calidad consiste en reunir un grupo de trabajo voluntario para buscar soluciones a problemas detectados en sus respectivas áreas de desempeño laboral, o para mejorar algún aspecto que caracteriza su puesto de trabajo. El diagrama de causa y efecto es una representación gráfica sencilla en la que puede verse de manera relacional una especie de espina central, que es una línea en el plano horizontal, representando el problema a analizar, que se escribe a su derecha.
+    * Shigeo Shingo: es el padre de Cero control de calidad y Poka Yoke. Cero control de calidad se basa en la premisa de que los defectos se dan porque ocurren errores en el proceso. Si existe la adecuada inspección y si se toman las acciones necesarias en el lugar donde se pueden dar errores, entonces no habrá defectos. Para ello se deben utilizar inspecciones en la fuente, autochequeos y chequeos sucesivos como técnicas de inspección. Poka Yoke, en cambio, radica en lo sencillo y en lo simple. Hace énfasis en la realización de cosas obvias en las que detecta errores o evitan que se cometan. El objetivo final es concretar un proceso o terminar un producto sin la posibilidad de que exista un defecto.
+    * Philips Crosby: es el padre de Cero defectos y vacuna de la calidad. Cero defectos fue un programa que consistía en 14 puntos:
+        1. Compromiso de la dirección, la cual tiene que definir y comprometerse con una política de mejora de calidad.
+        2. Equipos de mejora de calidad, representantes de cada departamento encargados de cada equipo.
+        3. Medidas de calidad, reunir datos y estadísticas para analizar tendencias y problemas de la organización.
+        4. El coste de calidad, es el coste de hacer las cosas mal y de no hacerlo bien a la primera.
+        5. Tener conciencia de la calidad, enseñar a la organización el coste de la no calidad para de esta manera evitarlo.
+        6. Acción correctiva, se emprenderán acciones correctivas sobre posibles desviaciones.
+        7. Planificación de cero defectos, definir un programa de actuación para la prevención de errores que puedan llegar a suceder.
+        8. Capacitación del supervisor, la dirección recibirá la preparación sobre como elaborar y como se llevará a cabo el programa de mejora.
+        9. Día de cero defectos, se considera una fecha para llevar a cabo el cambio de la organización.
+        10. Establecer las metas, fijar objetivos para reducir los errores.
+        11. Eliminación de las causas error, eliminar barreras que impidan el cumplimiento óptimo del programa de cero defectos.
+        12. Reconocimiento, se ofrecen recompensas para aquellos que ayuden a cumplir las metas.
+        13. Consejos de calidad, se pretende unir a todos los trabajadores con comunicación.
+        14. Empezar de nuevo, la mejora de calidad es un ciclo por lo que nunca se deja de tener un cambio continuo.
+
+        Vacuna de la calidad, por su parte, consiste en una serie de políticas para evitar que se generen problemas con la calidad. Para preparar la vacuna es necesario combinar ciertos ingredientes clave:
+        * Integridad.
+        * Sistemas.
+        * Comunicaciones.
+        * Operaciones.
+        * Políticas.
+
 3. Explique con sus palabras qué es la Calidad del software y cómo se divide.
 
     Es el valor que los usuarios o clientes dan a un producto de software, según este satisfaga sus necesidades. Este producto a su vez es el resultado de un proceso de desarrollo, el cual condiciona la calidad del software. Se divide en:
