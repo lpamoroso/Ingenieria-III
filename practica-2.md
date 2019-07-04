@@ -54,8 +54,8 @@
     * Reclutamiento y entrenamiento de personal calificado: en otras palabras, personas responsables que puedan manejar el poder que supone regular los sistemas automatizados. Con la rotación de personal y el poco tiempo de evaluación, no es algo fácil de asegurar.
     * Sistema de autorizaciones: dicho de otra manera, deben ser consideradas las diferentes autorizaciones, desde una lista de precios hasta la compra de activos de alto valor. En los sistemas automatizados, las autorizaciones están embebidas dentro de los programas, por lo que los auditores no solo deben controlar la autorización en sí, sino también si se lleva a cabo exitosamente.
     * Documentos y registros adecuados: en otros términos, asegurar que los documentos y los registros sean apropiados. En un sistema bien diseñado deberían haber mayores registros de auditoría que en un sistema manual. Se deben prever controles de acceso y facilidades de acceso para asegurar que los rastros de auditoría sean exactos y completos.
-    * Control físico y documentación sobre los activos: o sea, controles de acceso y registor de éstos. Tanto en los sistemas manuales como en los automatizados es un factor crucial, la diferencia es que en los segundos todos los registros necesarios pueden mantenerse en un solo lugar. En tal contexto, la posibilidad de abuso o desastre por la concentración de información aumenta radicalmente, por lo que el sistema debe prevenir controles internos de supervisión. El auditor solamente accederá a los registros de auditoría para evaluar la gestión de los empleados.
-    * Chequeos independientes de performance: dicho de otro modo, evaluar los controles establecidos patra desarrollar, modificar, operar y mantener programas. En sistemas automatizados, los programas siempre ejecutan el mismo algoritmo a menos que haya una falla en el software o en el hardware.
+    * Control físico y documentación sobre los activos: o sea, controles de acceso y registro de éstos. Tanto en los sistemas manuales como en los automatizados es un factor crucial, la diferencia es que en los segundos todos los registros necesarios pueden mantenerse en un solo lugar. En tal contexto, la posibilidad de abuso o desastre por la concentración de información aumenta radicalmente, por lo que el sistema debe prevenir controles internos de supervisión. El auditor solamente accederá a los registros de auditoría para evaluar la gestión de los empleados.
+    * Chequeos independientes de performance: dicho de otro modo, evaluar los controles establecidos para desarrollar, modificar, operar y mantener programas. En sistemas automatizados, los programas siempre ejecutan el mismo algoritmo a menos que haya una falla en el software o en el hardware.
     * Comparación periódica de activos con registros contabilizados: es decir, que los datos que representan los activos deben ser controlados con los activos reales, a fin de determinar falta de complexitud o inexactitud de los datos. En sistemas automatizados, se deben preparar programas que se encarguen de dicha tarea. Nuevamente es importante la implementación de controles en dichas tareas.
 
 ## Parte II: Controles y riesgos de Auditoría
@@ -87,7 +87,7 @@
 
     Determinando el menor nivel de los subsistemas, primero, y evaluando la confiabilidad de los controles en cada subsistema, por último. Es necesario identificar todos los posibles tipos de eventos que puden ocurrir en el subsistema, considerar todos los eventos legales e ilegales. Para tal fin, es que hay que considerar las principales funciones que realiza el subsistema.  
     Un auditor recolecta evidencia sobre la existencia y confiabilidad de los controles para determinar si las pérdidas por los eventos ilegales se reducen a niveles aceptables. Para cada evento ilegal debe considerarse cómo los controles cubren tal evento, qué tan confiables son los controles y si podría ocurrir un error materia o alguna otra irregularidad.  
-    La evaluación de la confiabilidad va de abajo hacia arriba, siendo los subsistemas de menor nivel los componentes de los de mayor nivel. Habiéndose analizado la confiabilidad de los subsistemas de menor nivel puede analizarse el impacto, la naturaleza y la frecuencia de los eventos ilegales en los sistema de mayor nivel.
+    La evaluación de la confiabilidad va de abajo hacia arriba, siendo los subsistemas de menor nivel los componentes de los de mayor nivel. Habiéndose analizado la confiabilidad de los subsistemas de menor nivel puede analizarse el impacto, la naturaleza y la frecuencia de los eventos ilegales en los sistemas de mayor nivel.
 
 14. Identificar cuatro tipos de riesgos. Explicar la naturaleza de cada uno de ellos.
 
@@ -126,7 +126,7 @@
     :-----------------:|:----------------:|:------------------:
     Planificación | Incluye asignar personal adecuado a las auditorías, obtener información del cliente, realizar procedimientos de revisión analíticos para comprender el negocio del cliente e identificar áreas de riesgo. | Incluye investigar nuevos clientes, asignar personal adecuado a las auditorías, obtener el contrato, obtener información del cliente, realizar procedimientos de revisión analíticos para comprender el negocio del cliente e identificar áreas de riesgo.
     Mayor preocupación | El tamaño de las pérdidas que pudiera haber por operaciones ineficientes o ineficaces. | El tamaño de los errores en los estados financieros. 
-    Actitud del auditor ante un control débil(por ejemplo, para entender las implicancias) | Expandir sus investigaciones para lograr una mejor comprensión acerca de la naturaleza e implicancias de estas debilidades. | cortar sus investigaciones(sobre causas) y realizar testeos más amplios.
+    Actitud del auditor ante un control débil(por ejemplo, para entender las implicancias) | Expandir sus investigaciones para lograr una mejor comprensión acerca de la naturaleza e implicancias de estas debilidades. | Cortar sus investigaciones(sobre causas) y realizar testeos más amplios.
 
 19. Describa el contenido de un informe de auditoría.
 
@@ -163,7 +163,7 @@
 
 23. Explique la diferencia entre Gobernanza y Administración de TI.
 
-    La diferencia es que la gobernanza asegura que las necesidades, condiciones y opciones de las partes interesadas son evaluadas para determinar objetivos empresariales a alcanzar equilibrados y acordados. Establece la dirección a través de la priorización y la toma de decisiones supervisando el desempe;o y cumplimiento contra la dirección y objetivos acordados. La administraci'on planifica, construye, ejecuta y monitorea las actividades en consonancia con la dirección establecida por el cuerpo de gobierno para alcanzar los objetivos empresariales. Es algo así como una vez ejecutada la administración, se da la gobernanza. La gobernanza asegura y la administración planifica y contruye.
+    La diferencia es que la gobernanza asegura que las necesidades, condiciones y opciones de las partes interesadas son evaluadas para determinar objetivos empresariales a alcanzar equilibrados y acordados. Establece la dirección a través de la priorización y la toma de decisiones supervisando el desempeño y cumplimiento contra la dirección y objetivos acordados. La administración planifica, construye, ejecuta y monitorea las actividades en consonancia con la dirección establecida por el cuerpo de gobierno para alcanzar los objetivos empresariales. Es algo así como una vez ejecutada la administración, se da la gobernanza. La gobernanza asegura y la administración planifica y construye.
 
 24. ¿Cuáles son los principios de COBIT?
 
@@ -230,8 +230,6 @@
     * Factores de éxito crítico.
     * Indicadores claves de metas.
     * Indicadores claves de rendimiento.
-
-    //preguntar
 
 27. Justificar la importancia de aplicar COBIT en una organización.
 

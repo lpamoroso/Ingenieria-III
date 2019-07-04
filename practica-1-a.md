@@ -88,17 +88,12 @@
 
 6. Explique cuáles son los pasos a seguir para realizar una evaluación siguiendo el proceso de evaluación definido en la norma ISO/IEC 14598.
 
-    * ISO/IEC 14598-1, este marco de trabajo provee un panorama general de las otras 5 partes y relaciona la evaluación del producto software y el modelo de calidad definido en la norma ISO 9126.
-
-    * ISO/IEC 14598-2, planificacion y gestion, contiene los requerimiento y las guías para las funciones de soporte tales como el planeamiento y gestión para la evaluación del producto del software. Esta norma ya fue retirada (withdrawn) por la ISO/IEC.
-
-    * ISO/IEC 14598-3, trata sobre el proceso para desarrolladores, esta parte provee los requerimientos y las recomendaciones para la evaluación del producto del software cuando la evaluación es conducida en paralelo con el desarrollo y se lleva a cabo por el desarrollador. Esta norma ya fue retirada (withdrawn) por la ISO/IEC.
-
-    * ISO/IEC 14598-4, esta parte trata sobre el proceso para compradores que provee los requerimientos y las recomendaciones de evaluación del producto de software comercial personalizado o modificación de un producto existente realizada para garantizar a los compradores si este cumple los requisitos especificados. Esta norma ya fue retirada (withdrawn) por la ISO/IEC.
-
-    * ISO/IEC 14598-5, es sobre el proceso de evaluadores que son orientaciones o recomendaciones para la aplicación práctica de la evaluación del producto del software cuando las diversas partes intentan comprender, aceptar y confiar los resultados de la evaluación.
-
-    * ISO/IEC 14598-6, por último la parte 6 trata de la documentación de los módulos de evaluación, provee las guías para la documentación del mismo, estos módulos representan la especificación del modelo de calidad de las correspondientes métricas internas y externas que serán aplicadas a una evaluación en particular incluye métodos y técnicas de evaluación más las mediciones actuales resultantes de su aplicación.
+    ISO/IEC 14598-1 Visión General: provee una visión general de las otras cinco partes y explica la relación entre la evaluación del producto software y el modelo de calidad definido en la ISO/IEC 9126
+    ISO/IEC 14598-2 Planeamiento y Gestión: contiene requisitos y guías para las funciones de soporte tales como la planificación y gestión de la evaluación del producto del software.
+    ISO/IEC 14598-3 Proceso para desenvolvedores: provee los requisitos y guías para la evaluación del producto software cuando la evaluación es llevada a cabo en paralelo con el desarrollo por parte del desarrollador.
+    ISO/IEC 14598-4 Proceso para adquirientes: provee los requisitos y guías para que la evaluación del producto software sea llevada a cabo en función a los compradores que planean adquirir o reutilizar un producto de software existente o pre-desarrollado.
+    ISO/IEC 14598-5 Proceso para avaladores: provee los requisitos y guías para la evaluación del producto software cuando la evaluación es llevada a cabo por evaluadores independientes.
+    ISO/IEC 14598-6 Documentación de Módulos: provee las guías para la documentación del módulo de evaluación.
 
 7. Describa el Modelo de Calidad de la ISO/IEC 9126.
 
@@ -197,6 +192,9 @@
 
 14. ¿Qué norma de la familia ISO/IEC 25000 reemplaza a la ISO/IEC 14598?
     ISO/IEC 2502n y 2504n.
+
+
+    //pregunatr por ideas punto 13 y 14 y qué criterios brinda la norma para la creación de nuevas métricas
 
 Diferencias entre el estándar SQuaRE y la ISO/IEC 9126 y 14598:
 + Introducción a un nuevo modelo de referencia general.

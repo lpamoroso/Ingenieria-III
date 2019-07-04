@@ -4,11 +4,11 @@
 
 1. Explique con sus palabras en qué consiste un proyecto.
 
-    Un proyecto es una secuencia de actividades única, complejas y conectadas que tienen un objetivo o propósito y que deben ser completadas en un tiempo específico, dentro del presupuesto y de acuerdo a las especificaciones. Es cualquier actividad que dé como resultado un producto o un entregable. Es una organización temporal creada con el propósito de entregar uno o más producto empresariales dentro de las restricciones de costo, calidad y recursos.
+    Un proyecto es una secuencia de actividades única, complejas y conectadas que tienen un objetivo o propósito y que deben ser completadas en un tiempo específico, dentro del presupuesto y de acuerdo a las especificaciones. Es cualquier actividad que dé como resultado un producto o un entregable. Es una organización temporal creada con el propósito de entregar uno o más productos empresariales dentro de las restricciones de costo, calidad y recursos.
 
 2. Indique cuál es el trabajo de un líder de proyecto. Nombre al menos cinco tareas del mismo.
 
-    Es el responsable de detectar las necesidades de los usuarios y gestionar los recursos económicos, materiales y humanos, para obtener los resultados esperados en los plazos previstos y con la calidad necesaria. Es el que coordina el trabjo de técnicos y especialistas y la cominicación con los interesados. Son jugadores de equipo que motivan al personal usando sus conocimientos y habilidades. Son aquellos que realizan una planificación detallada para administrar la entrega de productos y servicios. Sus tareas suelen ser:
+    Es el responsable de detectar las necesidades de los usuarios y gestionar los recursos económicos, materiales y humanos, para obtener los resultados esperados en los plazos previstos y con la calidad necesaria. Es el que coordina el trabajo de técnicos y especialistas y la comunicación con los interesados. Son jugadores de equipo que motivan al personal usando sus conocimientos y habilidades. Son aquellos que realizan una planificación detallada para administrar la entrega de productos y servicios. Sus tareas suelen ser:
     * Desarrollar el plan del proyecto.
     * Identificar requerimientos y el alcance del proyecto.
     * Comunicar y reportar a interesados.
@@ -73,6 +73,7 @@
         + compromiso de los interesados: por ejemplo, que uno de los desarrolladores no termine con lo que se comprometió a tiempo.
         + control de calidad: por ejemplo, cuando se hace énfasis en que se vea bien o sea intuitivo, pero las funcionalidades no terminan de funcionar(valga la redundancia) bien.
         + control de avance: por ejemplo, cuando se le dedica mucho tiempo a una funcionalidad y, como consecuencia de eso, se le dedica menos tiempo a otra. Esto puede desembocar en funcionalidades incompletas o inacabadas e impactar fuertemente en la calidad del producto, además de que también impacta en los costos.
+
 8. Revise y compare las definiciones de administración de proyectos vistas en clase y otras disponibles en la Web(debe citar las definiciones utilizadas). En base a esas definiciones, se pide:
 
     Definición provista por la cátedra:
@@ -98,7 +99,7 @@
 
     3. Enumerar ventajas de una buena administración de proyectos.
 
-        La principal ventaja con respecto a una mala administración es que si la administración es muy buena, es muy probable que las metas del proyecto se alcancen. La administración de proyectos garantiza que se alcancen los objetivos cumpliendo los estándares en términos de tiempo, calidad, beneficios, riesgos, costo y alcance.
+        La principal ventaja con respecto a una mala administración es que si esta muy buena, es muy probable que las metas del proyecto se alcancen. La administración de proyectos garantiza que se alcancen los objetivos cumpliendo los estándares en términos de tiempo, calidad, beneficios, riesgos, costo y alcance.
 
 9. Cite los desafíos de la administración de proyectos. Indique qué puede hacerse para cumplirlos.
 
@@ -127,7 +128,7 @@
 11. Explique qué es un programa. Mencione diferencias entre programas y proyectos.
 
     Un programa es un grupo de proyectos relacionados que se gestionan de manera coordinada para obtener beneficios. Integra los proyectos de modo que se pueda alcanzar un resultado mayor que la suma de sus partes.  
-    Los proyectos y los programas tienen varias diferencias, la principal, que un programa es un conjunto de proyectos. Además, el proyecto tienen un alcance limitado a un producto en concreto; los programas tienen un espectro más amplio que puede cambiar dependiendo la expectativa de beneficios. Otra duferencia es acerca de los cambios: los proyectos intentan mantenerlos al mínimo y los programas es algo que deben esperar e incluso aceptar. En los proyectos, los líderes se centran en la entrega de las tareas y a cumplir los criterios de éxito; en los programas, éstos se centran más en la resolución de comflictos y gestión de relaciones.
+    Los proyectos y los programas tienen varias diferencias, la principal, que un programa es un conjunto de proyectos. Además, el proyecto tiene un alcance limitado a un producto en concreto; los programas tienen un espectro más amplio que puede cambiar dependiendo la expectativa de beneficios. Otra diferencia es acerca de los cambios: los proyectos intentan mantenerlos al mínimo y los programas es algo que deben esperar e incluso aceptar. En los proyectos, los líderes se centran en la entrega de las tareas y a cumplir los criterios de éxito; en los programas, éstos se centran más en la resolución de conflictos y gestión de relaciones.
 
 12. ¿Cuál es la relación entre la administración de programas y la administración de proyectos?
 
@@ -193,12 +194,13 @@
 
 20. ¿Cuáles son las técnicas de estimación y para qué se utilizan?
 
-    * Brainstorming: es una técnica para generar muchas ideas en un grupo y requiere la participación espontánea de todos. La técnica permite obtener nuevas ideas y soluciones creativas e innovadoras. El clima de participación y motivación asegura mayor calidad en las decisiones tomadas por el grupo, más compromkiso por la actividad y un sentimiento de responsabilidad compartido por todos.
+    * Brainstorming: es una técnica para generar muchas ideas en un grupo y requiere la participación espontánea de todos. La técnica permite obtener nuevas ideas y soluciones creativas e innovadoras. El clima de participación y motivación asegura mayor calidad en las decisiones tomadas por el grupo, más compromiso por la actividad y un sentimiento de responsabilidad compartido por todos.
     * Opinión experta: utiliza la experiencia de un personal de desarrollo senior. El desarrollador describe los parámetros del proyecto y el experto hace predicciones basadas en experiencias previas. Se identifican similitudes y diferencias.
     * Descomposición: el análisis se focaliza en el producto o en las tareas requeridas para construirlo. La idea es descomponer el producto en componentes y las actividades en tareas. Se basan en casos promedios o experiencias pasadas.
     * Modelos: son técnicas que identifican contribuyentes claves al esfuerzo, generando fórmulas matemáticas que relacionan estos items al esfuerzo. Hay dos enfoques: bottom-up y top-down.
 
 21. El modelo COCOMO original es una colección de tres modelos:
+    [comment]: <> (COCOMO is love, COCOMO is life)
     1. Básico.
     2. Intermedio.
     3. Avanzado o detallado.
@@ -267,7 +269,7 @@
     Las principales diferencias entre COCOMO y COCOMO 2.0 son:
 
     * COCOMO: requiere software tamaño en KDSI como entrada, pero COCOMO 2.0 se basa en código KSLOC(lógico). La principal diferencia entre DSI y real es que una sola línea de código fuente puede tener varias líneas físicas.
-    * COCOMO 2.0: aborda las siguiente tres fases del ciclo de vida en espiral: desarrollo de aplicaciones, principios de diseño y arquitectura post. COCOMO proporciona las estimaciones puntuales del esfuerzo y la programación, pero COCOMO 2.0 proporciona rangos probables de estimaciones que representan unadesviación estándar alrededor de la estimación más probable.
+    * COCOMO 2.0: aborda las siguiente tres fases del ciclo de vida en espiral: desarrollo de aplicaciones, principios de diseño y arquitectura post. COCOMO proporciona las estimaciones puntuales del esfuerzo y la programación, pero COCOMO 2.0 proporciona rangos probables de estimaciones que representan una desviación estándar alrededor de la estimación más probable.
 
 24. Explique qué es la economía de escala. De al menos dos ejemplos.
 

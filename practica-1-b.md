@@ -24,7 +24,7 @@
 
 4. ¿A qué se considera “Proceso de Software”?
 
-    Es una estructura aplicada al desarrollo de un producto de software. Hay varios modelos a seguir para el establecimiento de un procesos para el desarrollo de software, cada uno de los cuales describe un enfoque diferente para distintas actividades que tienen lugar durante el proceso.
+    Es una estructura aplicada al desarrollo de un producto de software. Hay varios modelos a seguir para el establecimiento de un proceso para el desarrollo de software, cada uno de los cuales describe un enfoque diferente para distintas actividades que tienen lugar durante el proceso.
 
 5. Describa el Modelo de Calidad de Procesos de Software ISO/IEC 12207.
 
@@ -107,7 +107,7 @@
 
             La organización mejora continuamente los procesos para cumplir los objetivos de negocio.
 
-        Actualmente, la familia de normas ISO/IEC 33000 ha reemplazado a la ISO/IEC 14504. La ISO/IEC 33000 define modelos de procesos, más especificamente procesos entidades de evaluación; marcos de medición de procesos, es decir, escalas para evaluar características de calidad de proceso específicas de las entidades; y procesos de evaluación documentados, es decir, una especificación del proceso a seguir durante la evaluación.
+        Actualmente, la familia de normas ISO/IEC 33000 ha reemplazado a la ISO/IEC 15504. La ISO/IEC 33000 define modelos de procesos, más especificamente procesos entidades de evaluación; marcos de medición de procesos, es decir, escalas para evaluar características de calidad de proceso específicas de las entidades; y procesos de evaluación documentados, es decir, una especificación del proceso a seguir durante la evaluación.
 
 7. Explique qué significa realizar una certificación bajo la norma IRAM-ISO 9001:2015.
 
@@ -129,7 +129,7 @@
     * Por la ISO 9001 se asegura que el negocio en cuestión cumple con los requisitos legales y del cliente.
     * Aumenta el rendimiento de la organización. La norma ISO 9001 ayuda a implementar procesos simplificados y mejorar la eficiencia operacional.
     * Asegura la toma de decisiones y mejora la satisfacción del cliente.
-    * Optimiza las aperaciones para así cumplir y superar los requisitos de sus clientes.
+    * Optimiza las operaciones para así cumplir y superar los requisitos de sus clientes.
     * Mejora el rendimiento financiero.
     
 10. El alcance del SGC es una descripción resumida del mismo y su naturaleza. Indique qué características debe tener.
@@ -139,7 +139,7 @@
 11. Los objetivos del SGC establecen las metas a las que se desea llegar con la certificación y deben suponer un avance, buscando la mejora continua. Indique qué características deben tener.
 
 [comment]: <> (La medición es el primer paso para el control y la mejora. Si no se puede medir algo, no se lo puede entender. Si no se lo entiende, no se puede controlar. Si no se puede controlar, no se puede mejorar.)
-    Un sistema de gestión de calidad requiere que sus objetivos sean medibles y coherentes con la política de la calidad y la planificación estratégica establecidas por la organización. Para establecer los objetivos, entonces, es necesarioque la empresa analice en profundidad su política de la calidad. Dicho de otra manera, este análisis debe orientarse a examinar qué es lo que desea lograr la empresa con su SGC. En ese sentido, la finalidad primordial que debe guiar el funcionamiento del SGC es, sin dudas, poner en marcha el proceso de mejora continua en la organiación.
+    Un sistema de gestión de calidad requiere que sus objetivos sean medibles y coherentes con la política de la calidad y la planificación estratégica establecidas por la organización. Para establecer los objetivos, entonces, es necesario que la empresa analice en profundidad su política de la calidad. Dicho de otra manera, este análisis debe orientarse a examinar qué es lo que desea lograr la empresa con su SGC. En ese sentido, la finalidad primordial que debe guiar el funcionamiento del SGC es, sin dudas, poner en marcha el proceso de mejora continua en la organización.
 
 12. Dados los siguientes objetivos, indicar si están bien escritos y por qué. Reescribir los que no considere correctos de modo que cumplan con las características.
     1. No tener solicitudes de cambios en los requerimientos funcionales.
@@ -148,18 +148,20 @@
 
     2. Tener pocos errores en los requerimientos funcionales implementados.
 
-        No está bien escrito ya que no es medible, es decir, en vez de decir "pocos errores" podríase decir "Tener, a lo sumo, _x_ errores" siendo _x_ un número entero entre 0 y 23, por dar un ejemplo e ir mejorando ese número.
+        No está bien escrito ya que no es medible, es decir, en vez de decir "pocos errores" podríase decir "Disminuir un 17% los errores", por dar un ejemplo, e ir mejorando ese número.
 
     3. Tener un desvío promedio(por tarea) entre el tiempo insumido en desarrollo y el tiempo estimado menor al 25%.
 
         Para mí, está bien escrito porque es algo medible(un tiempo estimado menor al 25%) y es algo que es coherente, tiene sentido.
 
 13. El Mapa de Procesos busca mantener una estructura coherente de la información documentada del sistema.
+
     1. Indique cuáles son los tipos de procesos que debe contener y qué representan cada uno de ellos.
 
         Hay tres tipos de procesos:
+
         * Procesos estratégicos: aquellos que definen y verifican las políticas, estrategias, objetivos y metas de la organización.
-        * Procesos operativos: aquellos que relacionados con la producción de bienes y servicios que se entregan al cliente.
+        * Procesos operativos: aquellos que se relacionan con la producción de bienes y servicios que se entregan al cliente.
         * Procesos de soporte: aquellos que realizan actividades de apoyo necesarias para el buen funcionamiento de los procesos operativos.
 
     2. Indique qué significan los clientes en el Mapa de Procesos y qué representan.
@@ -181,13 +183,13 @@
 
     2. Funcionamiento del área contable de la Facultad de Informática.
 
-        ISO/IEC 9126.
+        ISO/IEC 20000 y 12207.
 
     3. Manejo de los datos de una empresa.
 
-        ISO/IEC 25000.
+        ISO 8000.
 
     4. Desarrollar un software de reserva de aulas para la facultad.
 
-        ISO/IEC 9126.
+        ISO/IEC 9126, 14598
         
